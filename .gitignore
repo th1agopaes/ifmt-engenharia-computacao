@@ -1,0 +1,52 @@
+# ---------------------------------------------------------------
+# Materiais de terceiros e arquivos pesados ficam no Google Drive
+# (ver CONVENCOES.md). Arquivo meu que precise ficar aqui:
+#   git add -f caminho/do/arquivo
+# ---------------------------------------------------------------
+*.pdf
+*.ppt
+*.pptx
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.odt
+*.odp
+*.ods
+*.zip
+*.rar
+*.7z
+*.mp3
+*.mp4
+*.m4a
+*.mov
+*.heic
+*.jpeg
+*.jpg
+
+# Lixo do Windows ao copiar arquivos para o WSL
+*:Zone.Identifier
+Thumbs.db
+desktop.ini
+
+# Repositórios próprios clonados dentro das pastas das disciplinas
+# (cada um tem link no README da disciplina)
+05-semestre/compiladores/compilador-colombe/
+05-semestre/engenharia-software/columbinamath/
+
+# Saídas de compilação e ambientes
+a.out
+*.o
+*.exe
+*.class
+target/
+build/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+node_modules/
+
+# Segredos
+.env
+.env.*
+!.env.example
