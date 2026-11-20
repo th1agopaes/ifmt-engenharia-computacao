@@ -12,7 +12,9 @@
 | 🚧 | ENC-32 | 🔌 [Laboratório de Circuitos Elétricos I](lab-circuitos-eletricos-i/README.md) | 34 h | Básico |
 | 🚧 | ENC-33 | 🤝 [Extensão I](extensao-i/README.md) | 102 h | — |
 | 🚧 | ENC-34 | 🏗️ [Engenharia de Software](engenharia-software/README.md) | 68 h | Específico |
-| 🚧 | ENC-35 | 📝 [Ética Profissional](etica-profissional/README.md) | 34 h | Básico |
+| 🚧 | ENC-35 | 📝 Ética Profissional ¹ | 34 h | Básico |
+
+¹ Formação geral, sem pasta: o foco deste repositório é computação, física e matemática.
 
 **Total:** 442 h · teórica 207 h · prática 102 h · extensão 133 h
 

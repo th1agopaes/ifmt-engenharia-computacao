@@ -9,10 +9,12 @@
 | ✅ | ENC-08 | ➗ [Cálculo Diferencial e Integral I](calculo-i/README.md) | 68 h | Básico |
 | ✅ | ENC-09 | ⚛️ [Física Geral e Experimental I](fisica-i/README.md) | 68 h | Básico |
 | ✅ | ENC-10 | ➗ [Álgebra Linear](algebra-linear/README.md) | 68 h | Básico |
-| ✅ | ENC-11 | 📝 [Metodologia Científica](metodologia-cientifica/README.md) | 34 h | Básico |
+| ✅ | ENC-11 | 📝 Metodologia Científica ¹ | 34 h | Básico |
 | ✅ | ENC-12 | 🖥️ [Arquitetura e Organização de Computadores](arquitetura-organizacao-computadores/README.md) | 68 h | Profissionalizante |
 | ✅ | ENC-13 | 💻 [Algoritmos II](algoritmos-ii/README.md) | 68 h | Profissionalizante |
-| ✅ | ENC-14 | 🌱 [Ciências do Ambiente](ciencias-ambiente/README.md) | 34 h | Básico |
+| ✅ | ENC-14 | 🌱 Ciências do Ambiente ¹ | 34 h | Básico |
+
+¹ Formação geral, sem pasta: o foco deste repositório é computação, física e matemática.
 
 **Total:** 408 h · teórica 323 h · prática 68 h · extensão 17 h
 

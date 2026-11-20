@@ -174,24 +174,24 @@ Atualizado em: AAAA-MM-DD
 
 | Semestre | Código | Disciplina | Módulos |
 | :---: | --- | --- | --- |
-| 1º | ENC-01 | [Introdução à Engenharia da Computação](../01-semestre/intro-eng-computacao/README.md) | 📝 Teórica |
+| 1º | ENC-01 | Introdução à Engenharia da Computação | 📝 Teórica |
 | 1º | ENC-02 | [Fundamentos da Matemática](../01-semestre/fundamentos-matematica/README.md) | ➗ Matemática |
 | 1º | ENC-03 | [Cálculo Vetorial e Geometria Analítica](../01-semestre/calculo-vetorial-ga/README.md) | ➗ Matemática |
-| 1º | ENC-04 | [Química Geral e Ciência dos Materiais](../01-semestre/quimica-geral-ciencia-materiais/README.md) | ⚛️ Física e Química |
-| 1º | ENC-05 | [Desenho Técnico em Ambiente Computacional](../01-semestre/desenho-tecnico-computacional/README.md) | 📝 Teórica |
+| 1º | ENC-04 | Química Geral e Ciência dos Materiais | ⚛️ Física e Química |
+| 1º | ENC-05 | Desenho Técnico em Ambiente Computacional | 📝 Teórica |
 | 1º | ENC-06 | [Algoritmos I](../01-semestre/algoritmos-i/README.md) | 💻 Programação |
 | 1º | ENC-07 | [Economia](../01-semestre/economia/README.md) | 📝 Teórica |
 | 2º | ENC-08 | [Cálculo Diferencial e Integral I](../02-semestre/calculo-i/README.md) | ➗ Matemática |
 | 2º | ENC-09 | [Física Geral e Experimental I](../02-semestre/fisica-i/README.md) | ⚛️ Física e Química |
 | 2º | ENC-10 | [Álgebra Linear](../02-semestre/algebra-linear/README.md) | ➗ Matemática |
-| 2º | ENC-11 | [Metodologia Científica](../02-semestre/metodologia-cientifica/README.md) | 📝 Teórica |
+| 2º | ENC-11 | Metodologia Científica | 📝 Teórica |
 | 2º | ENC-12 | [Arquitetura e Organização de Computadores](../02-semestre/arquitetura-organizacao-computadores/README.md) | 🔌 Circuitos e Eletrônica + 💻 Programação |
 | 2º | ENC-13 | [Algoritmos II](../02-semestre/algoritmos-ii/README.md) | 💻 Programação |
-| 2º | ENC-14 | [Ciências do Ambiente](../02-semestre/ciencias-ambiente/README.md) | 📝 Teórica + 🤝 Extensão |
+| 2º | ENC-14 | Ciências do Ambiente | 📝 Teórica + 🤝 Extensão |
 | 3º | ENC-15 | [Cálculo Diferencial e Integral II](../03-semestre/calculo-ii/README.md) | ➗ Matemática |
 | 3º | ENC-16 | [Física Geral e Experimental II](../03-semestre/fisica-ii/README.md) | ⚛️ Física e Química |
 | 3º | ENC-17 | [Eletrônica Digital](../03-semestre/eletronica-digital/README.md) | 🔌 Circuitos e Eletrônica |
-| 3º | ENC-18 | [Introdução à Extensão](../03-semestre/introducao-extensao/README.md) | 🤝 Extensão |
+| 3º | ENC-18 | Introdução à Extensão | 🤝 Extensão |
 | 3º | ENC-19 | [Sistemas Operacionais](../03-semestre/sistemas-operacionais/README.md) | 💻 Programação |
 | 3º | ENC-20 | [Estruturas de Dados](../03-semestre/estrutura-dados/README.md) | 💻 Programação |
 | 3º | ENC-21 | [Probabilidade e Estatística Computacional](../03-semestre/probabilidade-estatistica-computacional/README.md) | ➗ Matemática + 💻 Programação |
@@ -208,7 +208,7 @@ Atualizado em: AAAA-MM-DD
 | 5º | ENC-32 | [Laboratório de Circuitos Elétricos I](../05-semestre/lab-circuitos-eletricos-i/README.md) | 🔌 Circuitos e Eletrônica |
 | 5º | ENC-33 | [Extensão I](../05-semestre/extensao-i/README.md) | 🤝 Extensão + 🏗️ Projeto |
 | 5º | ENC-34 | [Engenharia de Software](../05-semestre/engenharia-software/README.md) | 🏗️ Projeto |
-| 5º | ENC-35 | [Ética Profissional](../05-semestre/etica-profissional/README.md) | 📝 Teórica + 🤝 Extensão |
+| 5º | ENC-35 | Ética Profissional | 📝 Teórica + 🤝 Extensão |
 | 6º | ENC-36 | [Eletrônica Analógica I](../06-semestre/eletronica-analogica-i/README.md) | 🔌 Circuitos e Eletrônica |
 | 6º | ENC-37 | [Circuitos Elétricos II](../06-semestre/circuitos-eletricos-ii/README.md) | 🔌 Circuitos e Eletrônica + ➗ Matemática |
 | 6º | ENC-38 | [Laboratório de Circuitos Elétricos II](../06-semestre/lab-circuitos-eletricos-ii/README.md) | 🔌 Circuitos e Eletrônica |
@@ -219,14 +219,14 @@ Atualizado em: AAAA-MM-DD
 | 7º | ENC-43 | [Microcontroladores](../07-semestre/microcontroladores/README.md) | 🔌 Circuitos e Eletrônica + 💻 Programação + 🏗️ Projeto |
 | 7º | ENC-44 | [Eletrônica Analógica II](../07-semestre/eletronica-analogica-ii/README.md) | 🔌 Circuitos e Eletrônica |
 | 7º | ENC-45 | [Controle de Sistemas Contínuos I](../07-semestre/controle-sistemas-continuos-i/README.md) | ➗ Matemática + 🔌 Circuitos e Eletrônica |
-| 7º | ENC-46 | [Segurança do Trabalho](../07-semestre/seguranca-trabalho/README.md) | 📝 Teórica |
+| 7º | ENC-46 | Segurança do Trabalho | 📝 Teórica |
 | 7º | ENC-47 | [Mineração de Dados](../07-semestre/mineracao-dados/README.md) | 💻 Programação + ➗ Matemática |
 | 7º | ENC-48 | [Extensão II](../07-semestre/extensao-ii/README.md) | 🤝 Extensão + 🏗️ Projeto |
 | 7º | ENC-49 | [Segurança de Sistemas de Computação](../07-semestre/seguranca-sistemas-computacao/README.md) | 💻 Programação |
 | 8º | ENC-50 | [Processamento Digital de Sinais](../08-semestre/processamento-digital-sinais/README.md) | ➗ Matemática + 💻 Programação |
 | 8º | ENC-51 | [Projeto de Sistemas Inteligentes](../08-semestre/projeto-sistemas-inteligentes/README.md) | 🏗️ Projeto + 💻 Programação |
 | 8º | ENC-52 | [Disciplina Eletiva](../08-semestre/eletiva/README.md) | 📝 Teórica |
-| 8º | ENC-53 | [Administração](../08-semestre/administracao/README.md) | 📝 Teórica |
+| 8º | ENC-53 | Administração | 📝 Teórica |
 | 8º | ENC-54 | [Trabalho de Conclusão do Curso](../08-semestre/tcc/README.md) | 🏗️ Projeto + 📝 Teórica |
 
 Eletivas: Cálculo III e IV e Processamento Digital de Imagens usam ➗ Matemática (+ 💻 Programação no PDI); Libras e Homem, Cultura e Sociedade usam 📝 Teórica.

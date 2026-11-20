@@ -9,10 +9,12 @@
 | ✅ | ENC-15 | ➗ [Cálculo Diferencial e Integral II](calculo-ii/README.md) | 68 h | Básico |
 | ✅ | ENC-16 | ⚛️ [Física Geral e Experimental II](fisica-ii/README.md) | 68 h | Básico |
 | ✅ | ENC-17 | 🔌 [Eletrônica Digital](eletronica-digital/README.md) | 68 h | Básico |
-| ✅ | ENC-18 | 🤝 [Introdução à Extensão](introducao-extensao/README.md) | 34 h | — |
+| ✅ | ENC-18 | 🤝 Introdução à Extensão ¹ | 34 h | — |
 | ✅ | ENC-19 | 🖥️ [Sistemas Operacionais](sistemas-operacionais/README.md) | 68 h | Profissionalizante |
 | ✅ | ENC-20 | 💻 [Estruturas de Dados](estrutura-dados/README.md) | 68 h | Profissionalizante |
 | ✅ | ENC-21 | 📊 [Probabilidade e Estatística Computacional](probabilidade-estatistica-computacional/README.md) | 34 h | Específico |
+
+¹ Formação geral, sem pasta: o foco deste repositório é computação, física e matemática.
 
 **Total:** 408 h · teórica 282 h · prática 92 h · extensão 34 h
 

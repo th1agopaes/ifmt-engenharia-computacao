@@ -20,13 +20,15 @@
 
 | Status | Código | Disciplina | Carga horária | Núcleo |
 | :---: | --- | --- | --- | --- |
-| ✅ | ENC-01 | 📝 [Introdução à Engenharia da Computação](01-semestre/intro-eng-computacao/README.md) | 34 h | — |
+| ✅ | ENC-01 | 📝 Introdução à Engenharia da Computação ¹ | 34 h | — |
 | ✅ | ENC-02 | ➗ [Fundamentos da Matemática](01-semestre/fundamentos-matematica/README.md) | 68 h | Básico |
 | ✅ | ENC-03 | ➗ [Cálculo Vetorial e Geometria Analítica](01-semestre/calculo-vetorial-ga/README.md) | 68 h | Básico |
-| ✅ | ENC-04 | 🧪 [Química Geral e Ciência dos Materiais](01-semestre/quimica-geral-ciencia-materiais/README.md) | 34 h | Básico |
-| ✅ | ENC-05 | 📐 [Desenho Técnico em Ambiente Computacional](01-semestre/desenho-tecnico-computacional/README.md) | 34 h | Básico |
+| ✅ | ENC-04 | 🧪 Química Geral e Ciência dos Materiais ¹ | 34 h | Básico |
+| ✅ | ENC-05 | 📐 Desenho Técnico em Ambiente Computacional ¹ | 34 h | Básico |
 | ✅ | ENC-06 | 💻 [Algoritmos I](01-semestre/algoritmos-i/README.md) | 68 h | Básico |
 | ✅ | ENC-07 | 📈 [Economia](01-semestre/economia/README.md) | 34 h | Básico |
+
+¹ Formação geral, sem pasta: o foco deste repositório é computação, física e matemática.
 
 </details>
 
@@ -38,10 +40,12 @@
 | ✅ | ENC-08 | ➗ [Cálculo Diferencial e Integral I](02-semestre/calculo-i/README.md) | 68 h | Básico |
 | ✅ | ENC-09 | ⚛️ [Física Geral e Experimental I](02-semestre/fisica-i/README.md) | 68 h | Básico |
 | ✅ | ENC-10 | ➗ [Álgebra Linear](02-semestre/algebra-linear/README.md) | 68 h | Básico |
-| ✅ | ENC-11 | 📝 [Metodologia Científica](02-semestre/metodologia-cientifica/README.md) | 34 h | Básico |
+| ✅ | ENC-11 | 📝 Metodologia Científica ¹ | 34 h | Básico |
 | ✅ | ENC-12 | 🖥️ [Arquitetura e Organização de Computadores](02-semestre/arquitetura-organizacao-computadores/README.md) | 68 h | Profissionalizante |
 | ✅ | ENC-13 | 💻 [Algoritmos II](02-semestre/algoritmos-ii/README.md) | 68 h | Profissionalizante |
-| ✅ | ENC-14 | 🌱 [Ciências do Ambiente](02-semestre/ciencias-ambiente/README.md) | 34 h | Básico |
+| ✅ | ENC-14 | 🌱 Ciências do Ambiente ¹ | 34 h | Básico |
+
+¹ Formação geral, sem pasta: o foco deste repositório é computação, física e matemática.
 
 </details>
 
@@ -53,10 +57,12 @@
 | ✅ | ENC-15 | ➗ [Cálculo Diferencial e Integral II](03-semestre/calculo-ii/README.md) | 68 h | Básico |
 | ✅ | ENC-16 | ⚛️ [Física Geral e Experimental II](03-semestre/fisica-ii/README.md) | 68 h | Básico |
 | ✅ | ENC-17 | 🔌 [Eletrônica Digital](03-semestre/eletronica-digital/README.md) | 68 h | Básico |
-| ✅ | ENC-18 | 🤝 [Introdução à Extensão](03-semestre/introducao-extensao/README.md) | 34 h | — |
+| ✅ | ENC-18 | 🤝 Introdução à Extensão ¹ | 34 h | — |
 | ✅ | ENC-19 | 🖥️ [Sistemas Operacionais](03-semestre/sistemas-operacionais/README.md) | 68 h | Profissionalizante |
 | ✅ | ENC-20 | 💻 [Estruturas de Dados](03-semestre/estrutura-dados/README.md) | 68 h | Profissionalizante |
 | ✅ | ENC-21 | 📊 [Probabilidade e Estatística Computacional](03-semestre/probabilidade-estatistica-computacional/README.md) | 34 h | Específico |
+
+¹ Formação geral, sem pasta: o foco deste repositório é computação, física e matemática.
 
 </details>
 
@@ -85,7 +91,9 @@
 | 🚧 | ENC-32 | 🔌 [Laboratório de Circuitos Elétricos I](05-semestre/lab-circuitos-eletricos-i/README.md) | 34 h | Básico |
 | 🚧 | ENC-33 | 🤝 [Extensão I](05-semestre/extensao-i/README.md) | 102 h | — |
 | 🚧 | ENC-34 | 🏗️ [Engenharia de Software](05-semestre/engenharia-software/README.md) | 68 h | Específico |
-| 🚧 | ENC-35 | 📝 [Ética Profissional](05-semestre/etica-profissional/README.md) | 34 h | Básico |
+| 🚧 | ENC-35 | 📝 Ética Profissional ¹ | 34 h | Básico |
+
+¹ Formação geral, sem pasta: o foco deste repositório é computação, física e matemática.
 
 <details>
 <summary><b>⏳ 6º semestre · 2027/1</b></summary>
@@ -110,10 +118,12 @@
 | ⏳ | ENC-43 | 🔧 [Microcontroladores](07-semestre/microcontroladores/README.md) | 68 h | Profissionalizante |
 | ⏳ | ENC-44 | 🔌 [Eletrônica Analógica II](07-semestre/eletronica-analogica-ii/README.md) | 68 h | Profissionalizante |
 | ⏳ | ENC-45 | ➗ [Controle de Sistemas Contínuos I](07-semestre/controle-sistemas-continuos-i/README.md) | 68 h | Profissionalizante |
-| ⏳ | ENC-46 | 🦺 [Segurança do Trabalho](07-semestre/seguranca-trabalho/README.md) | 34 h | Profissionalizante |
+| ⏳ | ENC-46 | 🦺 Segurança do Trabalho ¹ | 34 h | Profissionalizante |
 | ⏳ | ENC-47 | ⛏️ [Mineração de Dados](07-semestre/mineracao-dados/README.md) | 68 h | Específico |
 | ⏳ | ENC-48 | 🤝 [Extensão II](07-semestre/extensao-ii/README.md) | 102 h | — |
 | ⏳ | ENC-49 | 🔒 [Segurança de Sistemas de Computação](07-semestre/seguranca-sistemas-computacao/README.md) | 34 h | Específico |
+
+¹ Formação geral, sem pasta: o foco deste repositório é computação, física e matemática.
 
 </details>
 
@@ -125,8 +135,10 @@
 | ⏳ | ENC-50 | ➗ [Processamento Digital de Sinais](08-semestre/processamento-digital-sinais/README.md) | 34 h | Específico |
 | ⏳ | ENC-51 | 🧠 [Projeto de Sistemas Inteligentes](08-semestre/projeto-sistemas-inteligentes/README.md) | 68 h | Específico |
 | ⏳ | ENC-52 | 🎯 [Disciplina Eletiva](08-semestre/eletiva/README.md) | 34 h | — |
-| ⏳ | ENC-53 | 🏢 [Administração](08-semestre/administracao/README.md) | 34 h | Básico |
+| ⏳ | ENC-53 | 🏢 Administração ¹ | 34 h | Básico |
 | ⏳ | ENC-54 | 🎓 [Trabalho de Conclusão do Curso](08-semestre/tcc/README.md) | 34 h | — |
+
+¹ Formação geral, sem pasta: o foco deste repositório é computação, física e matemática.
 
 </details>
 

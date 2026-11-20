@@ -10,7 +10,7 @@
 | **Semestre** | 2º · 2025/1 |
 | **Carga horária** | 68 h (51 teórica · 17 prática) |
 | **Núcleo** | Profissionalizante |
-| **Pré-requisitos** | [Introdução à Engenharia da Computação](../../01-semestre/intro-eng-computacao/README.md) |
+| **Pré-requisitos** | Introdução à Engenharia da Computação |
 | **Libera** | [Sistemas Operacionais](../../03-semestre/sistemas-operacionais/README.md) · [Compiladores](../../05-semestre/compiladores/README.md) |
 | **Professor(a)** | _a preencher_ |
 

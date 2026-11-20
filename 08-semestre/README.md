@@ -9,8 +9,10 @@
 | ⏳ | ENC-50 | ➗ [Processamento Digital de Sinais](processamento-digital-sinais/README.md) | 34 h | Específico |
 | ⏳ | ENC-51 | 🧠 [Projeto de Sistemas Inteligentes](projeto-sistemas-inteligentes/README.md) | 68 h | Específico |
 | ⏳ | ENC-52 | 🎯 [Disciplina Eletiva](eletiva/README.md) | 34 h | — |
-| ⏳ | ENC-53 | 🏢 [Administração](administracao/README.md) | 34 h | Básico |
+| ⏳ | ENC-53 | 🏢 Administração ¹ | 34 h | Básico |
 | ⏳ | ENC-54 | 🎓 [Trabalho de Conclusão do Curso](tcc/README.md) | 34 h | — |
+
+¹ Formação geral, sem pasta: o foco deste repositório é computação, física e matemática.
 
 **Total:** 204 h · teórica 156 h · prática 34 h · extensão 14 h
 
