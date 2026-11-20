@@ -1,0 +1,2631 @@
+{
+  "fonte": {
+    "documento": "Projeto Pedagógico do Curso de Bacharelado em Engenharia da Computação · IFMT · PPC 2024",
+    "aprovacao": [
+      "Resolução 126/2023 - RTR-CONSEPE/RTR/IFMT, de 14/12/2023",
+      "Resolução 142/2023 - RTR-CONSUP/RTR/IFMT, de 20/12/2023"
+    ],
+    "carga_horaria": {
+      "disciplinas": 3128,
+      "estagio": 160,
+      "atividades_complementares": 160,
+      "extensao": 345,
+      "total": 3448
+    },
+    "integralizacao": "mínimo de 8 semestres"
+  },
+  "disciplinas": [
+    {
+      "codigo": "ENC-01",
+      "nome": "Introdução à Engenharia da Computação",
+      "semestre": 1,
+      "nucleo": "—",
+      "pre_requisitos": [],
+      "eletiva_qualquer": false,
+      "ch": {
+        "total": 34,
+        "teorica": 34,
+        "pratica": 0,
+        "extensao": 0
+      },
+      "ementa": "Apresentar a estrutura do campus, os documentos que regem a vida acadêmica dos alunos, as áreas de atuação dos Engenheiros da Computação no mercado de trabalho, como os engenheiros da computação podem contribuir para o avanço do desenvolvimento científico, apresentar os regimentos e regulamentos vigentes. Apresentar os direitos e deveres dos alunos.",
+      "conteudo": [
+        {
+          "t": "Considerações Institucionais",
+          "sub": [
+            "Projeto de Plano de Curso da Engenharia da Computação",
+            "Regulamento Didático",
+            "Direitos e Deveres dos alunos",
+            "Procedimentos e Processos",
+            "Colegiado do curso",
+            "Estrutura do Campus"
+          ]
+        },
+        {
+          "t": "Considerações profissionais",
+          "sub": [
+            "O Engenheiro da Computação no mercado de trabalho",
+            "A história da computação",
+            "Avanços tecnológicos recentes",
+            "Ética profissional",
+            "Inovações tecnológicas"
+          ]
+        }
+      ],
+      "bib_basica": [
+        "Projeto de Plano de Curso",
+        "Regulamento Didático",
+        "Portarias Institucionais",
+        "Portarias do MEC"
+      ],
+      "bib_complementar": [],
+      "observacoes": [],
+      "libera": [
+        "ENC-12"
+      ],
+      "pasta": "01-semestre/intro-eng-computacao",
+      "modulos_claude": [
+        "teorica"
+      ],
+      "emoji": "📝",
+      "status": "concluida",
+      "periodo": "2024/2"
+    },
+    {
+      "codigo": "ENC-02",
+      "nome": "Fundamentos da Matemática",
+      "semestre": 1,
+      "nucleo": "Básico",
+      "pre_requisitos": [],
+      "eletiva_qualquer": false,
+      "ch": {
+        "total": 68,
+        "teorica": 68,
+        "pratica": 0,
+        "extensao": 0
+      },
+      "ementa": "Conjuntos e Aritmética básica. Cálculo com Expressões Algébricas. Produtos notáveis; binômio de Newton. Adição, subtração, multiplicação e divisão de expressões algébricas. Fatoração e simplificação de expressões algébricas; expressões algébricas envolvendo raízes. Polinômio do primeiro grau e análise do sinal do polinômio. Polinômio do segundo grau e análise do sinal do polinômio. Algoritmo da divisão de dois polinômios. Equações e Inequações. Funções.",
+      "conteudo": [],
+      "bib_basica": [
+        "DEMANA, D., Pré-Cálculo. São Paulo: Pearson Education do Brasil Ltda. 2009.",
+        "GUIDORIZZI, H. L. Um Curso de Cálculo. 5ª ed. Rio de Janeiro: LTC, 2001. v.v.1.",
+        "STEWART, J. Cálculo. 6ª ed. São Paulo: Cengage Learning, 2009. vol.1."
+      ],
+      "bib_complementar": [
+        "ÁVILA, G. S. Cálculo das Funções e uma Variável. 7º ed. Rio de janeiro: LTC, 2003. v.v. 1.",
+        "LEITHOLD, L. O Cálculo com Geometria Analítica. 3ª ed. Rio de Janeiro: Harbra, 1994. v.v. 1.",
+        "FLEMMING, D. M., GONÇALVES, M. B. Cálculo A. Funções, limite, derivação, integração. 5ª ed. São Paulo: Makron Books.",
+        "LARSON, Ron. Cálculo Aplicado. São Paulo: Cengage Learning, 2011.",
+        "SWOKOWSKI, E. W. Cálculo com Geometria Analítica. v. 1. São Paulo: MacGraw - Hill, 1995."
+      ],
+      "observacoes": [],
+      "libera": [
+        "ENC-08",
+        "ENC-09",
+        "ENC-17"
+      ],
+      "pasta": "01-semestre/fundamentos-matematica",
+      "modulos_claude": [
+        "matematica"
+      ],
+      "emoji": "➗",
+      "status": "concluida",
+      "periodo": "2024/2"
+    },
+    {
+      "codigo": "ENC-03",
+      "nome": "Cálculo Vetorial e Geometria Analítica",
+      "semestre": 1,
+      "nucleo": "Básico",
+      "pre_requisitos": [],
+      "eletiva_qualquer": false,
+      "ch": {
+        "total": 68,
+        "teorica": 68,
+        "pratica": 0,
+        "extensao": 0
+      },
+      "ementa": "Operações com vetores. Produto escalar. Produto vetorial e produto misto. Equações da reta no espaço. Posição relativa entre duas retas. Ângulo entre retas. Interseção de retas. Equações do plano. Posições relativas entre planos e retas. Interseções com retas e planos. Cônicas. Quádricas.",
+      "conteudo": [],
+      "bib_basica": [
+        "LIMA, E. L. Geometria Analítica e Álgebra Linear. 2ª ed. Rio de Janeiro: IMPA, 2005.",
+        "BOULOS, P.; CAMARGO, I. Geometria Analítica - Um Tratamento Vetorial. 3a ed. São Paulo: Prentice Hall do Brasil, 2005.",
+        "STEINBRUCH, A.; WINTERLE, P. Geometria Analítica. 2ª ed. São Paulo: Makron Books, 1987."
+      ],
+      "bib_complementar": [
+        "CALLIOLI, C. A. Álgebra Linear e Aplicações, Editora Atual.",
+        "CORREA, P. S. Q. Álgebra Linear e Geometria Analítica, Editora Campus.",
+        "BOLDRINI, J. L. et al, Álgebra Linear, Editora Harper e Row do Brasil.",
+        "WINTERLE, P. Vetores e Geometria Analítica. Editora Pearson.",
+        "LORETO, Ana Cecília da Costa. Vetores e Geometria Analítica. 4ª ed. LCTE Editora, 2014"
+      ],
+      "observacoes": [],
+      "libera": [
+        "ENC-10"
+      ],
+      "pasta": "01-semestre/calculo-vetorial-ga",
+      "modulos_claude": [
+        "matematica"
+      ],
+      "emoji": "➗",
+      "status": "concluida",
+      "periodo": "2024/2"
+    },
+    {
+      "codigo": "ENC-04",
+      "nome": "Química Geral e Ciência dos Materiais",
+      "semestre": 1,
+      "nucleo": "Básico",
+      "pre_requisitos": [],
+      "eletiva_qualquer": false,
+      "ch": {
+        "total": 34,
+        "teorica": 34,
+        "pratica": 0,
+        "extensao": 0
+      },
+      "ementa": "Introdução a engenharia e a ciência dos materiais; classificação dos materiais; correlação entre ligações químicas e propriedades; materiais cristalinos, semicristalinos e amorfos; estruturas cristalinas de metais; planos e direções cristalográficas; densidade atômica; estruturas cristalinas de cerâmicas; estruturas cristalinas de polímeros; sistemas de escorregamento em mono e policristais; imperfeições; deformação plástica em sistemas policristalinos; difusão; diagramas de equilíbrio de fases; conceitos de tensão e deformação; relações típicas de tensão-deformação dos materiais; propriedades elásticas e plásticas; dureza dos materiais; propriedades térmicas, elétricas, magnéticas e ópticas dos materiais.",
+      "conteudo": [],
+      "bib_basica": [
+        "VAN VLACK, L. H. Princípios de Ciência e Tecnologia dos Materiais. 1ª ed. Rio de Janeiro: Campus, 1984.",
+        "CALLISTER, William D., Jr. Ciência e Engenharia de Materiais: uma Introdução. Rio De Janeiro RJ, LTC – EDITORA, 2002.",
+        "RUSSELL, J. B. Química Geral. vol. 1. 2ª ed. São Paulo: Makron, 1994."
+      ],
+      "bib_complementar": [
+        "SARAIVA, D. B. Materiais Elétricos. Rio de Janeiro: Editora Guanabara Dois",
+        "SLAGAUCH, P. Química Geral, Rio de Janeiro: LTC Editora S. A.",
+        "CHANG, R. Química Geral - Conceitos Essenciais. 4ª ed. Porto Alegre: Bookman, 2007.",
+        "ASKELAND, Donald R. e WRIGH, Wendelin J. Ciência e Engenharia dos Materiais. Editora McGraw Hill, 2012.",
+        "SHACKELFORD, James. Ciência dos Materiais. Editora Pearson, 2008."
+      ],
+      "observacoes": [],
+      "libera": [],
+      "pasta": "01-semestre/quimica-geral-ciencia-materiais",
+      "modulos_claude": [
+        "fisica"
+      ],
+      "emoji": "🧪",
+      "status": "concluida",
+      "periodo": "2024/2"
+    },
+    {
+      "codigo": "ENC-05",
+      "nome": "Desenho Técnico em Ambiente Computacional",
+      "semestre": 1,
+      "nucleo": "Básico",
+      "pre_requisitos": [],
+      "eletiva_qualquer": false,
+      "ch": {
+        "total": 34,
+        "teorica": 34,
+        "pratica": 0,
+        "extensao": 0
+      },
+      "ementa": "Material de desenho; Normas técnicas. Linhas técnicas; Caligrafia técnica; Perspectivas; Técnicas de cotagem; Aplicação de escalas; Projeções ortogonais; Cortes; Desenho mecânico aplicado a equipamentos elétricos; Comandos de desenho, edição, visualização, impressão e criação de blocos de desenho utilizando programas de desenho eletrônico.",
+      "conteudo": [],
+      "bib_basica": [
+        "AMÉRICO, Costa. Autodesk Inventor 2013 - Curso Completo. Editora: Lidel – Zamboni, 2012.",
+        "CRUZ, Michele David da. Autodesk Inventor 2013 Professional - Teoria de Projetos, Modelagem, Simulação e Prática. Editora Érica, 2012.",
+        "KATORI, Rosa. AutoCAD 2012: Projetos em 2D. São Paulo: Editora SENAC, 2011."
+      ],
+      "bib_complementar": [
+        "FRENCH, Thomas Ewing; VIERCK, Charles J. Desenho técnico e tecnologia gráfica. 8. Ed. São Paulo: Editora Globo, 2005.",
+        "GIESECKE, Frederick E.; MITCHELL, Alva. Comunicação gráfica moderna. Editora Bookman, 2001.",
+        "ABNT. Coletânea de normas de desenho técnico. São Paulo: SENAI-DTEDMD, 1990.",
+        "PROVENZA, Francesco. Prontuário de Desenhista de máquinas. São Paulo: F. Provenza, 1960."
+      ],
+      "observacoes": [],
+      "libera": [],
+      "pasta": "01-semestre/desenho-tecnico-computacional",
+      "modulos_claude": [
+        "teorica"
+      ],
+      "emoji": "📐",
+      "status": "concluida",
+      "periodo": "2024/2"
+    },
+    {
+      "codigo": "ENC-06",
+      "nome": "Algoritmos I",
+      "semestre": 1,
+      "nucleo": "Básico",
+      "pre_requisitos": [],
+      "eletiva_qualquer": false,
+      "ch": {
+        "total": 68,
+        "teorica": 34,
+        "pratica": 34,
+        "extensao": 0
+      },
+      "ementa": "Introdução ao conceito de algoritmo, desenvolvimento de algoritmos, fundamentos da técnica de refinamentos sucessivos. Os conceitos de variáveis, tipos de dados, constantes, operadores aritméticos, expressões, atribuição, estruturas de controle (sequência, condição, repetição). Representações gráfica e textual de algoritmos. Conceito de programa, estrutura e funcionalidades básicas de uma linguagem de programação procedural. Variáveis estruturadas homogêneas: variáveis indexadas (vetor e matriz).",
+      "conteudo": [],
+      "bib_basica": [
+        "FARRER, H. et al. Algoritmos Estruturados. 3a ed. Rio de Janeiro: LTC, 1999.",
+        "MANZANO, J. A.; OLIVEIRA, J. F. de Estudo Dirigido de Algoritmos. 15ª ed. São Paulo: Érica, 2010.",
+        "MARQUES, Arlete Simille; et al. Algoritmos. Rio de Janeiro RJ: Elsevier, 2012."
+      ],
+      "bib_complementar": [
+        "FORBELLONE, A. L. V.. Lógica de programação: a construção de algoritmos e estruturas de dados. 3ª ed. São Paulo-SP: Pearson Prentice Hall, 2005.",
+        "GUIMARÃES, Â. M.; LAGES, N. A. de C. Algoritmos e estruturas de dados. Rio de Janeiro: Livros Técnicos e Científicos S/A, 1985.",
+        "MEDINA, M.; FERTIG, C. Algoritmos e Programação - Teoria e Prática. 1ª ed. São Paulo: Novatec, 2005.",
+        "CORMEN, T. H. et. al. Algoritmos: teoria e prática. 3ª ed. Rio de Janeiro RJ: Elsevier, 2012.",
+        "SEBESTA, R. W. Conceitos de Linguagens de Programação. 5a ed. Porto Alegre: Bookman, 2003. v.v. 1"
+      ],
+      "observacoes": [],
+      "libera": [
+        "ENC-13"
+      ],
+      "pasta": "01-semestre/algoritmos-i",
+      "modulos_claude": [
+        "programacao"
+      ],
+      "emoji": "💻",
+      "status": "concluida",
+      "periodo": "2024/2"
+    },
+    {
+      "codigo": "ENC-07",
+      "nome": "Economia",
+      "semestre": 1,
+      "nucleo": "Básico",
+      "pre_requisitos": [],
+      "eletiva_qualquer": false,
+      "ch": {
+        "total": 34,
+        "teorica": 34,
+        "pratica": 0,
+        "extensao": 0
+      },
+      "ementa": "Introdução à economia: princípios econômicos e a relação com as engenharias; Introdução à Microeconomia; Mercado e Formação de Preços; Teoria da Produção e dos Custos de Produção; Estruturas de Mercado; Introdução à Macroeconomia e às Políticas Macroeconômicas; Estrutura de Análise Macroeconômica: determinação do produto e da renda nacional; Atualidades da Economia Brasileira e internacional e seus impactos na área de engenharia.",
+      "conteudo": [],
+      "bib_basica": [
+        "PINHO, D. B., et al. Manual de Economia: equipe de professores da USP. 7 ed. São Paulo: Saraiva, 2017.",
+        "MANKIW, N. G. Macroeconomia. 8 ed. São Paulo: LTC, 2014.",
+        "VASCONCELLOS, M. A. S.; GARCIA, M. E. Fundamentos de Economia. 5 ed. São Paulo: Saraiva, 2014.",
+        "CORTES, J. G. P. Introdução à Economia da Engenharia: uma visão do processo de gerenciamento de ativos de engenharia. 1 ed. São Paulo: Cengage Brasil, 2015."
+      ],
+      "bib_complementar": [
+        "ABREU, M. P. A ordem do progresso – dois séculos de política econômica no Brasil. 2 ed. Rio de Janeiro: Elsevier, 2014.",
+        "LIMA, F. C. C. ; et al. Contabilidade Social: a nova referência das contas nacionais do Brasil. 4 ed. Rio de Janeiro: Elsevier, 2013.",
+        "PINDYCK, R. S.; RUBINFELD, D. L. Microeconomia. 7 ed. São Paulo: Pearson, 2010.",
+        "ROSSETTI, J. P. Introdução à Economia. São Paulo: Atlas, 2014. .",
+        "SOUZA, N. J. Desenvolvimento econômico. São Paulo: Atlas, 2012."
+      ],
+      "observacoes": [],
+      "libera": [],
+      "pasta": "01-semestre/economia",
+      "modulos_claude": [
+        "teorica"
+      ],
+      "emoji": "📈",
+      "status": "concluida",
+      "periodo": "2024/2"
+    },
+    {
+      "codigo": "ENC-08",
+      "nome": "Cálculo Diferencial e Integral I",
+      "semestre": 2,
+      "nucleo": "Básico",
+      "pre_requisitos": [
+        "ENC-02"
+      ],
+      "eletiva_qualquer": false,
+      "ch": {
+        "total": 68,
+        "teorica": 68,
+        "pratica": 0,
+        "extensao": 0
+      },
+      "ementa": "Limites: definição. Limites infinitos e ao infinito. Continuidade. Derivadas e diferenciais. Teorema de Rolle e do valor médio. Integral indefinida. Técnicas de integração. Integral definida. Aplicações: áreas entre curvas, distância, volume, momento, centro de massa, trabalho.",
+      "conteudo": [],
+      "bib_basica": [
+        "GUIDORIZZI, H. L. Um Curso de Cálculo. 5ª ed. Rio de Janeiro: LTC, 2001. V.v.1.",
+        "STEWART, J. Cálculo. 6ª ed. São Paulo: Cengage Learning, 2009. Vol.1.",
+        "MUNEM, M. A. & FOULIS, D. J., Cálculo, vol. I, Rio de Janeiro: LTC Editora S. A."
+      ],
+      "bib_complementar": [
+        "ÁVILA, G. S. Cálculo das Funções e uma Variável. 7º ed. Rio de janeiro: LTC, 2003. V.v. 1.",
+        "LEITHOLD, L. O Cálculo com Geometria Analítica. 3ª ed. Rio de Janeiro: Harbra, 1994. v. 1.",
+        "FLEMMING, D. M., GONÇALVES, M. B. Cálculo A. Funções, limite, derivação, integração. 5ª ed. São Paulo: Makron Books.",
+        "LARSON, Ron. Cálculo Aplicado. São Paulo: Cengage Learning, 2011.",
+        "SWOKOWSKI, E. W. Cálculo com Geometria Analítica. V. 1. São Paulo: MacGraw – Hill, 1995."
+      ],
+      "observacoes": [],
+      "libera": [
+        "ENC-15",
+        "ENC-21",
+        "ENC-24"
+      ],
+      "pasta": "02-semestre/calculo-i",
+      "modulos_claude": [
+        "matematica"
+      ],
+      "emoji": "➗",
+      "status": "concluida",
+      "periodo": "2025/1"
+    },
+    {
+      "codigo": "ENC-09",
+      "nome": "Física Geral e Experimental I",
+      "semestre": 2,
+      "nucleo": "Básico",
+      "pre_requisitos": [
+        "ENC-02"
+      ],
+      "eletiva_qualquer": false,
+      "ch": {
+        "total": 68,
+        "teorica": 51,
+        "pratica": 17,
+        "extensao": 0
+      },
+      "ementa": "Cinemática. Dinâmica da partícula. Trabalho e energia. Conservação do momento linear. Cinemática rotacional. Dinâmica rotacional. Conservação do momento angular. Equilíbrio de corpos rígidos. Aplicações em Engenharia Elétrica.",
+      "conteudo": [],
+      "bib_basica": [
+        "WOLFGANG BAUER, GARY D. WESTFALL, HELIO DIAS. Física para Universitários: Mecânica. Editora Mc Graw Hill, 2014;",
+        "SEARS & ZEMANSKY. Física: Mecânica, Editora Pearson, 2016, 14ª edição;",
+        "JEWETT, J. W.; SERWAY, R. A. Física para Cientistas e Engenheiros, vol.1, Mecânica, Editora Cengage, Learning, 2011."
+      ],
+      "bib_complementar": [
+        "KNIGHT, R. D. Física Uma Abordagem Estratégica, vol. 1, 2ª edição, 2009; Editora Bookman;",
+        "ALONSO & FINN. Física Um Curso Universitário, vol 1, 2ª edição brasileira, Editora Blucher, 2014;",
+        "NUSSENZVEIG, H. M. Curso de Física Básica, vol 1, 5ª edição, Editora Blucher, 2013;",
+        "SERWAY, R. A.; JEWETT, J. W. Princípios de Física. Vol I, Editora Cengage Learning, 5ª edição, 2014.",
+        "TIPLER, P.A.; MOSCA. G. Física para Cientistas e Engenheiros, vol. 1, Editora LTC, 2009."
+      ],
+      "observacoes": [],
+      "libera": [
+        "ENC-16"
+      ],
+      "pasta": "02-semestre/fisica-i",
+      "modulos_claude": [
+        "fisica"
+      ],
+      "emoji": "⚛️",
+      "status": "concluida",
+      "periodo": "2025/1"
+    },
+    {
+      "codigo": "ENC-10",
+      "nome": "Álgebra Linear",
+      "semestre": 2,
+      "nucleo": "Básico",
+      "pre_requisitos": [
+        "ENC-03"
+      ],
+      "eletiva_qualquer": false,
+      "ch": {
+        "total": 68,
+        "teorica": 68,
+        "pratica": 0,
+        "extensao": 0
+      },
+      "ementa": "Espaços vetoriais. Base, coordenada e mudança de base. Transformações lineares e suas propriedades. Dimensão de um espaço vetorial. Isomorfismos. Autovalores e autovetores. Diagonalização de operadores lineares. Teorema de Cayley-Hamilton. Operadores nilpotentes. Formas Racional e de Jordan. Espaços com produto interno.",
+      "conteudo": [],
+      "bib_basica": [
+        "KOLMAN, Bernard; HILL, David R. Álgebra Linear Com Aplicações Com Aplicações, 9ª ed. Editora: LTC, 2013.",
+        "CALIOLLI, C.A. Álgebra Linear e Aplicações, 6ª ed. Editora Atual, 1990.",
+        "LIPSCHUTZ, S. Álgebra Linear. 3ª ed. São Paulo: Pearson Makron Books, 1994"
+      ],
+      "bib_complementar": [
+        "DOMINGUES, H, H.et. al. Álgebra Linear e Aplicações. 6ª ed. São Paulo; Atual, 1990.",
+        "LIMA, Elon Lages, Institudo de Matemática Pura e Aplicada (Brasil). Algebra Linear. 7ª ed. Rio de Janeiro: IMPA, 2006.",
+        "COELHO F.U., LOURENÇO, M. L. Um curso de Álgebra Linear. 2ª ed. São Paulo, EDUSP, 2007",
+        "STEINBRUCH, A.; WINTERLE, P. Algebra Linear, 2ª ed. São Paulo: Pearson Makron Books, 1987.",
+        "LEON, S. Álgebra Linear com Aplicações, 4ª. ed. Rio de Janeiro: Livros Técnicos e Científicos - LTC, 1999."
+      ],
+      "observacoes": [],
+      "libera": [],
+      "pasta": "02-semestre/algebra-linear",
+      "modulos_claude": [
+        "matematica"
+      ],
+      "emoji": "➗",
+      "status": "concluida",
+      "periodo": "2025/1"
+    },
+    {
+      "codigo": "ENC-11",
+      "nome": "Metodologia Científica",
+      "semestre": 2,
+      "nucleo": "Básico",
+      "pre_requisitos": [],
+      "eletiva_qualquer": false,
+      "ch": {
+        "total": 34,
+        "teorica": 34,
+        "pratica": 0,
+        "extensao": 0
+      },
+      "ementa": "Ciência e conhecimento científico. Método científico. Pesquisa e desenvolvimento científico. Métodos de pesquisa científica. Organização e orientação da pesquisa científica. Consulta da literatura. Difusão do conhecimento científico.",
+      "conteudo": [],
+      "bib_basica": [
+        "GIL, Antonio Carlos. Como elaborar projetos de pesquisa. 5 ed. SÃO PAULO: Atlas, 2010.",
+        "LAKATOS, E. M.; MARCONI, M. de A. Fundamentos de Metodologia Científica. 7a ed. São Paulo: Atlas, 2010.",
+        "SAMPIERI, R.H.; COLLADO, C.F.; LUCIO, P.B. Metodologia da pesquisa. São Paulo: MC GRAW-HILL, 2006."
+      ],
+      "bib_complementar": [
+        "BAPTISTA M.N. CAMPOS; D.C. Metodologias da pesquisa em ciências: análises quantitativas e qualitativas. LTC. Rio de Janeiro, 2007.",
+        "FURASTÉ, P. A. Normas técnicas para o trabalho científico: explicação das normas da abnt. 15ª ed. Manaus AM: Art ler ltda, 2004.",
+        "JACOBINI, M. L. de PAIVA. Metodologia do trabalho acadêmico. Campinas: Alínea, 2003.",
+        "LAKATOS, E. M.; MARCONI, M. de A. Metodologia do trabalho científico. 6 ed. São Paulo- SP: Atlas, 2001.",
+        "SANTOS, F. M. T.; GRECA, I. M. A pesquisa em ensino de ciências no Brasil e suas metodologias. 2ª ed. Ijuí: UNIJUÍ, 2013."
+      ],
+      "observacoes": [],
+      "libera": [],
+      "pasta": "02-semestre/metodologia-cientifica",
+      "modulos_claude": [
+        "teorica"
+      ],
+      "emoji": "📝",
+      "status": "concluida",
+      "periodo": "2025/1"
+    },
+    {
+      "codigo": "ENC-12",
+      "nome": "Arquitetura e Organização de Computadores",
+      "semestre": 2,
+      "nucleo": "Profissionalizante",
+      "pre_requisitos": [
+        "ENC-01"
+      ],
+      "eletiva_qualquer": false,
+      "ch": {
+        "total": 68,
+        "teorica": 51,
+        "pratica": 17,
+        "extensao": 0
+      },
+      "ementa": "Linguagem Assembly. Formato de instruções. Ligadores e Carregadores. Memórias: tipos, organização e endereçamento. CPUs: barramento, unidade de controle, arquiteturas e modelos. Acesso direto à memória (DMA). Interrupções e sua implementação. Arquitetura de computadores modernos.",
+      "conteudo": [],
+      "bib_basica": [
+        "DELGADO, José; RIBEIRO, Carlos. Arquitetura de computadores. Rio de Janeiro RJ: LTC, 2017.",
+        "STALLINGS, W. Arquitetura e Organização de Computadores, 8a ed. São Paulo: Prentice Hall do Brasil, 2010.",
+        "TANENBAUM, A. S. Organização Estruturada de Computadores. 4a ed. São Paulo: Prentice Hall do Brasil, 2001."
+      ],
+      "bib_complementar": [
+        "MURDOCCA, M. J.; HEURING, V. P. Introdução à Arquitetura de Computadores. 1a ed. Rio de Janeiro: Campus, 2001.",
+        "NORTON, P. Linguagem Assembly para IBM-PC. Rio de Janeiro: Coimbra, 1988. PATTERSON, D. A.; HENNESSY, J. L. Organização e projeto de computadores: a interface hardware/software. 1a ed. Rio de Janeiro: LTC, 38 2005.",
+        "STALLINGS, W. Arquitetura e organização de computadores. 8ª ed. São Paulo SP: Pearson Education do Brasil, 2010.",
+        "WEBER, R. F. Fundamentos de Arquiteturas de Computadores. 2a ed. Sagra-Luzzatto, 2001."
+      ],
+      "observacoes": [],
+      "libera": [
+        "ENC-19",
+        "ENC-29"
+      ],
+      "pasta": "02-semestre/arquitetura-organizacao-computadores",
+      "modulos_claude": [
+        "circuitos",
+        "programacao"
+      ],
+      "emoji": "🖥️",
+      "status": "concluida",
+      "periodo": "2025/1"
+    },
+    {
+      "codigo": "ENC-13",
+      "nome": "Algoritmos II",
+      "semestre": 2,
+      "nucleo": "Profissionalizante",
+      "pre_requisitos": [
+        "ENC-06"
+      ],
+      "eletiva_qualquer": false,
+      "ch": {
+        "total": 68,
+        "teorica": 34,
+        "pratica": 34,
+        "extensao": 0
+      },
+      "ementa": "Introdução ao conceito de subprogramas, passagem de parâmetros, variáveis locais e globais, recursividade. Variáveis estruturadas heterogêneas: registro. Arquivos. Manipulação de arquivos. Organização de tabelas e arquivos: pesquisa de dados sequencial, indexada, binária e cálculo de endereço (hash). Implementação em linguagem de programação.",
+      "conteudo": [],
+      "bib_basica": [
+        "CORMEN, T. H. et. al. Algoritmos: teoria e prática. 3ª ed. Rio de Janeiro RJ: Elsevier, 2012.",
+        "FARRER, Harry et al.Programação estruturada de computadores algoritmos estruturados: algoritmos estruturados. 3 ed. São Paulo SP: LTC, 1986.",
+        "MANZANO, J. A.; OLIVEIRA, J. F. de Estudo Dirigido de Algoritmos. 13a ed. São Paulo: Érica, 2010"
+      ],
+      "bib_complementar": [
+        "ASCENCIO, A. F. G.; CAMPOS, E. A. V. de. Fundamentos da programação de computadores: algoritmos, PASCAL, C/ C++ (padrão ANSI) e JAVA. São Paulo SP: Pearson Education do Brasil, 2012.",
+        "FORBELLONE, André Luiz Villar. Lógica de programação: a construção de algoritmos e estruturas de dados. 3ª ed. São Paulo-SP: Pearson Prentice Hall, 2005.",
+        "LEISERSON, C. E. Algoritmos - Teoria e Prática. 1a ed. Rio de Janeiro: Campus, 2002.",
+        "MEDINA, M.; FERTIG, C. Algoritmos e Programação - Teoria e Prática. 1a ed. São Paulo: Novatec, 2005.",
+        "ZIVIANI, N. Projetos de Algoritmos com Implementação em Pascal e C. 1a ed. Pioneira, 1996"
+      ],
+      "observacoes": [],
+      "libera": [
+        "ENC-20",
+        "ENC-27"
+      ],
+      "pasta": "02-semestre/algoritmos-ii",
+      "modulos_claude": [
+        "programacao"
+      ],
+      "emoji": "💻",
+      "status": "concluida",
+      "periodo": "2025/1"
+    },
+    {
+      "codigo": "ENC-14",
+      "nome": "Ciências do Ambiente",
+      "semestre": 2,
+      "nucleo": "Básico",
+      "pre_requisitos": [],
+      "eletiva_qualquer": false,
+      "ch": {
+        "total": 34,
+        "teorica": 17,
+        "pratica": 0,
+        "extensao": 17
+      },
+      "ementa": "Conceitos em meio ambiente, ecologia e sustentabilidade; Poluição, contaminação e riscos ambientais; Conferências internacionais do meio ambiente; Introdução à Legislação Ambiental Brasileira; Licenciamento ambiental; Sistemas de Gestão Ambiental (SGA); Certificações ambientais",
+      "conteudo": [],
+      "bib_basica": [
+        "ODUM, E. P.; BARRETT, G. W. Fundamentos de Ecologia. 1ª ed., São Paulo: Pioneira Thomson Learning, 2007.",
+        "PRIMACK, B. R.; RODRIGUES, E. Biologia da Conservação. 1ª ed., Londrina: Planta, 2001.",
+        "VESILIND, P. A. Introdução à engenharia ambiental. São Paulo - Cangage Learning, 2011"
+      ],
+      "bib_complementar": [
+        "PEREIRA, M. J. S., Meio Ambiente & Tecnologia. Rio de Janeiro - Ciência Moderna Ltda, 2010.",
+        "SANCHES, L. E., Avaliação de Impacto Ambiental – Conceitos e métodos. São Paulo - Oficina de textos, 2008.",
+        "IBAPE SP., Perícia Ambiental. São Paulo – PINI, 2011.",
+        "PORTO-GONÇALVES, C. W. A Globalização da Natureza e a Natureza da Globalização. Rio de Janeiro – Civilização Brasileira, 2006.",
+        "RODRIGUES, S. A. Destruição e Equilíbrio – O Homem e o Ambiente no Espaço e no Tempo, 11ª ed., São Paulo – Atual, Coleção Série Meio-Ambiente, 1989"
+      ],
+      "observacoes": [],
+      "libera": [],
+      "pasta": "02-semestre/ciencias-ambiente",
+      "modulos_claude": [
+        "teorica",
+        "extensao"
+      ],
+      "emoji": "🌱",
+      "status": "concluida",
+      "periodo": "2025/1"
+    },
+    {
+      "codigo": "ENC-15",
+      "nome": "Cálculo Diferencial e Integral II",
+      "semestre": 3,
+      "nucleo": "Básico",
+      "pre_requisitos": [
+        "ENC-08"
+      ],
+      "eletiva_qualquer": false,
+      "ch": {
+        "total": 68,
+        "teorica": 68,
+        "pratica": 0,
+        "extensao": 0
+      },
+      "ementa": "Funções de várias variáveis. Limites e continuidade de funções de várias variáveis. Derivadas e diferenciação de funções de várias variáveis. Diferencial exata. Aplicações das derivadas parciais: Vetor gradiente. Multiplicadores de Lagrange. Integrais múltiplas. Noções de Sequências e Séries Numéricas.",
+      "conteudo": [],
+      "bib_basica": [
+        "GUIDORIZZI, H. L. Um Curso de Cálculo. 5ª ed. Rio de Janeiro: LTC, 2001. v.v.3.",
+        "STEWART, J. Cálculo. 6ª ed. vol.2. São Paulo: Cengage Learning, 2009.",
+        "LEITHOLD, L. O Cálculo com Geometria Analítica. 3ª ed. vol.2 Rio de Janeiro: Harbra, 1994."
+      ],
+      "bib_complementar": [
+        "GONÇALVES, M.B. e FLEMMING, D. M. Cálculo B. Funções Vetoriais, Integrais Curvilíneas e Integrais.",
+        "BRONSON, IR. Moderna Introdução Às Equações Diferenciais. Coleção Shaum.",
+        "THOMAS, G.; WEIR, M.D.; HASS, J. Cálculo. 12ª ed. São Paulo: Pearson, 2012. v.v.2.",
+        "AYRES JR, F.; MENDELSON, E. Cálculo. 4ª ed. São Paulo: Bookman (Artmed), 2007.",
+        "ÁVILA, G. S. Cálculo das Funções de uma Variável. Vol.3. 7ª ed. Rio de Janeiro: LTC, 2003."
+      ],
+      "observacoes": [],
+      "libera": [
+        "ENC-22"
+      ],
+      "pasta": "03-semestre/calculo-ii",
+      "modulos_claude": [
+        "matematica"
+      ],
+      "emoji": "➗",
+      "status": "concluida",
+      "periodo": "2025/2"
+    },
+    {
+      "codigo": "ENC-16",
+      "nome": "Física Geral e Experimental II",
+      "semestre": 3,
+      "nucleo": "Básico",
+      "pre_requisitos": [
+        "ENC-09"
+      ],
+      "eletiva_qualquer": false,
+      "ch": {
+        "total": 68,
+        "teorica": 51,
+        "pratica": 17,
+        "extensao": 0
+      },
+      "ementa": "Mecânica dos fluidos: princípio de Arquimedes, escoamento de fluidos, equação de Bernoulli, conservação do momento. Oscilações: movimento harmônico simples. Ondas em meios elásticos. Ressonância. Efeito Doppler. Termodinâmica: lei zero. Primeira e segunda leis da Termodinâmica. Ciclo de Carnot. Entropia.",
+      "conteudo": [],
+      "bib_basica": [
+        "YUNG, H. D.; FREEDMAN, R. A. Física II: termodinâmica e ondas. 12ª ed. São Paulo: Pearson, 2008.",
+        "HALLIDAY,D.; RESNICK, R.; WALKER, J. Fundamentos de Física. 8a ed. Rio de Janeiro: LTC, 2009. v.v. 2.",
+        "TIPLER, P. A.; MOSCA, G. Física para Cientistas e Engenheiros. 6a ed. Rio de Janeiro: LTC, 2009. v.v. 1."
+      ],
+      "bib_complementar": [
+        "ALONSO, M & FINN, E. J. Física Um Curso Universitário. vol 1. Editora Ed. Blucher; 2ª edição, São Paulo, 2014.",
+        "JEWETT, W. J.; SERWAY, R.A. Física para Cientistas e Engenheiros: Oscilações, Ondas e Termodinâmica. Editora Cengage Learning, São Paulo, 2011.",
+        "NUSSENZVEIG, H. M. Curso de Física Básica. Vol. 2. Editora Blucher, 5ª edição, São Paulo, 2013.",
+        "SERWAY, R. A. Princípios de Física. vol.2, Editora Cengage Learning, 5ª edição, São Paulo, 2014.",
+        "TELLES, D. D. A; NETO, J. M. Física com Aplicação Tecnológica. vol. 2. Editora Blucher, 1ª edição, São Paulo, 2013."
+      ],
+      "observacoes": [],
+      "libera": [
+        "ENC-23"
+      ],
+      "pasta": "03-semestre/fisica-ii",
+      "modulos_claude": [
+        "fisica"
+      ],
+      "emoji": "⚛️",
+      "status": "concluida",
+      "periodo": "2025/2"
+    },
+    {
+      "codigo": "ENC-17",
+      "nome": "Eletrônica Digital",
+      "semestre": 3,
+      "nucleo": "Básico",
+      "pre_requisitos": [
+        "ENC-02"
+      ],
+      "eletiva_qualquer": false,
+      "ch": {
+        "total": 68,
+        "teorica": 51,
+        "pratica": 17,
+        "extensao": 0
+      },
+      "ementa": "Sistema de numeração e códigos. Álgebra de Boole. Portas Lógicas. Introdução às famílias lógicas e dispositivos lógicos programáveis. Circuitos combinacionais. Métodos para redução de circuitos combinacionais. Latches, detectores de transição, flip-flop’s JK, D e T. Circuitos sequenciais. Tecnologias de circuitos integrados digitais: TTL, CMOS e BiCMOS. Conversores A/D e D/A. Memórias semicondutoras",
+      "conteudo": [],
+      "bib_basica": [
+        "TOCCI, R. J. Et al. Sistemas digitais – princípios e aplicações. São Paulo: Pearson Education do Brasil.",
+        "BARTES, T. C., Fundamentos de Computadores Digitais, Rio de Janeiro: Editora Guanabara Dois.",
+        "RELAVAS, J. A. M., Introduções à Eletrônica Digital, Editora Figueirinhas."
+      ],
+      "bib_complementar": [
+        "FREGNI, E.; SARAIVA, A. M. Engenharia do Projeto Lógico Digital. Editora Edgard Blücher, 1995.",
+        "CAPUANO, F. G.; IDOETA, I. V. Elementos de Eletrônica Digital. 4ª ed. São Paulo: Érica, 2007.",
+        "BARTES, T. C., Fundamentos de Computadores Digitais, Rio de Janeiro: Editora Guanabara Dois.",
+        "BRANDASSI, A. E., Eletrônica Digital, Editor Pedagógico e Universitário Ltda."
+      ],
+      "observacoes": [],
+      "libera": [
+        "ENC-28",
+        "ENC-31",
+        "ENC-32"
+      ],
+      "pasta": "03-semestre/eletronica-digital",
+      "modulos_claude": [
+        "circuitos"
+      ],
+      "emoji": "🔌",
+      "status": "concluida",
+      "periodo": "2025/2"
+    },
+    {
+      "codigo": "ENC-18",
+      "nome": "Introdução à Extensão",
+      "semestre": 3,
+      "nucleo": "—",
+      "pre_requisitos": [],
+      "eletiva_qualquer": false,
+      "ch": {
+        "total": 34,
+        "teorica": 0,
+        "pratica": 0,
+        "extensao": 34
+      },
+      "ementa": "Entender o papel da universidade pública e da extensão universitária. Discutir os conceitos de extensão Universitária e sua indissociabilidade do ensino e pesquisa na Universidade. Apresentar a legislação e as atividades de extensão universitária. Elaborar projetos de extensão.",
+      "conteudo": [],
+      "bib_basica": [],
+      "bib_complementar": [],
+      "observacoes": [],
+      "libera": [
+        "ENC-33"
+      ],
+      "pasta": "03-semestre/introducao-extensao",
+      "modulos_claude": [
+        "extensao"
+      ],
+      "emoji": "🤝",
+      "status": "concluida",
+      "periodo": "2025/2"
+    },
+    {
+      "codigo": "ENC-19",
+      "nome": "Sistemas Operacionais",
+      "semestre": 3,
+      "nucleo": "Profissionalizante",
+      "pre_requisitos": [
+        "ENC-12"
+      ],
+      "eletiva_qualquer": false,
+      "ch": {
+        "total": 68,
+        "teorica": 51,
+        "pratica": 17,
+        "extensao": 0
+      },
+      "ementa": "Conceitos básicos de sistemas operacionais: processos, organizações de sistemas operacionais, chamadas de sistema. Gerência do processador: estados de processo, escalonamento. Entrada e saída: dispositivos e controladores, software de e/s, interrupções, dependência e independência. Gerência de memória: partições fixas e variáveis, paginação, segmentação, memória virtual. Gerência de arquivos.",
+      "conteudo": [],
+      "bib_basica": [
+        "DEITEL, H. M. et al. Sistemas Operacionais. 3a ed. São Paulo: Prentice Hall do Brasil, 2005.",
+        "SILBERSCHATZ, A.; GALVIN, P. B,; FIGUEIREDO, C. C. Sistemas operacionais: conceitos. 5ª ed. São Paulo-SP: Prentice - Hall, 2000.",
+        "TANENBAUM, A. S. Sistemas Operacionais Modernos. 3a ed. São Paulo: Prentice Hall do Brasil, 2011."
+      ],
+      "bib_complementar": [
+        "ABRAHAM, Silberschatz. Sistemas operacionais com Java. 2ª ed. Rio de Janeiro-RJ: Elsevier, 2008.",
+        "DEITEL, H. M.; DEITEL, P. J.; CHOFFNES, D. R. Sistemas operacionais. 3ª ed. São Paulo: Pearson Prentice Hall, 2005.",
+        "MACHADO, F. B.; MAIA, L. P. Arquitetura de Sistemas Operacionais. 4a ed. Rio de Janeiro: LTC, 2007.",
+        "OLIVEIRA, R. S.; CARISSIMI, A. S.; TOSCANI, S. Sistemas Operacionais. 1a ed. Sagra Luzzatt, 2004.",
+        "SILBERSCHATZ, A.; GAGNE, G.; GALVIN, P. B. Sistemas Operacionais com Java. 7a ed. Campus, 2008."
+      ],
+      "observacoes": [],
+      "libera": [],
+      "pasta": "03-semestre/sistemas-operacionais",
+      "modulos_claude": [
+        "programacao"
+      ],
+      "emoji": "🖥️",
+      "status": "concluida",
+      "periodo": "2025/2"
+    },
+    {
+      "codigo": "ENC-20",
+      "nome": "Estruturas de Dados",
+      "semestre": 3,
+      "nucleo": "Profissionalizante",
+      "pre_requisitos": [
+        "ENC-13"
+      ],
+      "eletiva_qualquer": false,
+      "ch": {
+        "total": 68,
+        "teorica": 34,
+        "pratica": 34,
+        "extensao": 0
+      },
+      "ementa": "Representação básica de dados. Estruturas lógicas e suas implementações. Listas lineares: listas ordenadas, listas encadeadas, listas com disciplinas de acesso (pilha e fila). Listas como estruturas de indexação. Algoritmo de busca em vetor. Uso de alocação de memória estática para implementar lista, pilha e fila. Implementação das estruturas em uma linguagem de programação procedural.",
+      "conteudo": [],
+      "bib_basica": [
+        "DROZDEK, Adam. Estrutura de dados e algoritmos em C++. São PauloSP: Cengage Learning, 2009.",
+        "FORBELLONE, A. L. Lógica de Programação. 3a ed. São Paulo: Prentice Hall do Brasil, 2005.",
+        "PEREIRA, S. do L. Estruturas de Dados Fundamentais - Conceitos e Aplicações. 12a ed. São Paulo: Érica, 1996."
+      ],
+      "bib_complementar": [
+        "CELES, W. et al. Introdução à Estrutura de Dados. 1a ed. Rio de Janeiro: Campus, 2004.",
+        "GUIMARÃES, Â. de M.; LAGES, N. A. de C. Algoritmos e estruturas de dados. Rio de Janeiro: Livros Técnicos e Científicos S/A, 1985.",
+        "MEDINA, M.; FERTIG, C. Algoritmos e Programação - Teoria e Prática. 1ª ed. São Paulo: Novatec, 2005.",
+        "PREISS, B. R. Estruturas de dados e algoritmos: padrões de projetos orientados a objeto com Java. Rio de Janeiro - RJ: Elsevier, 2000.",
+        "TENENBAUM, M.; LANGSAM, Y.; AUGENSTEIN, M.J. Estruturas de Dados usando C. 1aed. São Paulo: Makron Books, 1995."
+      ],
+      "observacoes": [],
+      "libera": [
+        "ENC-25",
+        "ENC-26"
+      ],
+      "pasta": "03-semestre/estrutura-dados",
+      "modulos_claude": [
+        "programacao"
+      ],
+      "emoji": "💻",
+      "status": "concluida",
+      "periodo": "2025/2"
+    },
+    {
+      "codigo": "ENC-21",
+      "nome": "Probabilidade e Estatística Computacional",
+      "semestre": 3,
+      "nucleo": "Específico",
+      "pre_requisitos": [
+        "ENC-08"
+      ],
+      "eletiva_qualquer": false,
+      "ch": {
+        "total": 34,
+        "teorica": 27,
+        "pratica": 7,
+        "extensao": 0
+      },
+      "ementa": "Noções básicas de Probabilidade: experimentos aleatórios, espaço amostral e eventos. Definições de Probabilidade: frequêntista, subjetiva e axiomática. Propriedades da Probabilidade. Fórmula de Bayes. Variáveis aleatórias. Medidas de centralidade e dispersão. Distribuições discretas e contínuas: binomial, geométrica, hipergeométrica, Poisson, uniforme, normal, exponencial, Gama, Weibull. Distribuições amostrais. Amostragem. Intervalo de confiança. Testes de hipótese. As atividades de programação devem ser realizadas na linguagem Python.",
+      "conteudo": [],
+      "bib_basica": [
+        "FONSECA, J. S.; MARTINS, G. A. Curso de Estatística. 6a ed. São Paulo: Atlas, 1996.",
+        "HINES, W. W.; et al. Probabilidade e Estatística na Engenharia. Rio de Janeiro RJ: LTC, 2011.",
+        "MEYER, P. L. Probabilidade - Aplicações à Estatística. 2a ed. Rio de Janeiro: LTC, 1983."
+      ],
+      "bib_complementar": [
+        "COSTA NETO, P. L. de O.; CYMBALISTA, M. Probabilidades: resumos teóricos, exercícios resolvidos, exercícios propostos. São Paulo SP: John Wiley e Sons, 1974.",
+        "DEVORE, J. L; SILVA, J. P. N. da. Probabilidade e estatística para engenharia e ciências. 8ª ed. São Paulo SP: Cengage Learning, 2009.",
+        "HINES, W. W.; BORROR, C. M.; MONTGOMERY, D. C.; GOLDSMAN, D. M. Probabilidade e Estatística na Engenharia. 4a ed. Rio de Janeiro: LTC, 2006.",
+        "MEYER, P. L.; LORENÇO FILHO, R. de C. B.. Probabilidade: aplicações à estatísticas. Rio de Janeiro: Gênio, 2011.",
+        "MONTGOMERY, D. C.; RUNGER, G. C.; CALADO, V. Estatística aplicada e probabilidade para Engenheiros. Rio de Janeiro RJ: LTC, 2016."
+      ],
+      "observacoes": [
+        "Na página da ementa, o código aparece como ENC-33 (na matriz é ENC-21).",
+        "Na página da ementa, o semestre aparece como 5º (na matriz é 3º)."
+      ],
+      "libera": [
+        "ENC-41"
+      ],
+      "pasta": "03-semestre/probabilidade-estatistica-computacional",
+      "modulos_claude": [
+        "matematica",
+        "programacao"
+      ],
+      "emoji": "📊",
+      "status": "concluida",
+      "periodo": "2025/2"
+    },
+    {
+      "codigo": "ENC-22",
+      "nome": "Equações Diferenciais",
+      "semestre": 4,
+      "nucleo": "Básico",
+      "pre_requisitos": [
+        "ENC-15"
+      ],
+      "eletiva_qualquer": false,
+      "ch": {
+        "total": 68,
+        "teorica": 68,
+        "pratica": 0,
+        "extensao": 0
+      },
+      "ementa": "Introdução às equações diferenciais ordinárias. Classificação. Métodos de resolução. Problemas de valor inicial. Problemas de Valor de Contorno. Equações diferenciais ordinárias lineares. Transformada de Laplace.",
+      "conteudo": [],
+      "bib_basica": [
+        "ZILL, D. G. Equações Diferenciais com Aplicações em Modelagem. 1ª ed. São Paulo: Pioneira Thomson Learning, 2003.",
+        "BRONSON, R.; COSTA, G. Equações Diferenciais. 3a ed. Porto Alegre: Bookman, 2008.",
+        "BOYCE, W. E.; DIPRIMA, R. C. Equações Diferenciais Elementares e Problemas de Valores de Contorno. 8ª ed. Rio de Janeiro: LTC, 2006"
+      ],
+      "bib_complementar": [
+        "ABBUNAHMAN, S. H. Equações Diferenciais, Rio de Janeiro: LTC Editora S.A, 1991.",
+        "AYRES JUNIOR, F. Equações Diferenciais, São Paulo: Editora McGraw-Hill.",
+        "GONÇALVES, M.B. e FLEMMING, D. M. Cálculo C. Funções Vetoriais, Integrais Curvilíneas e Integrais.",
+        "SPIEGEL, M. R. Transformada de Laplace. Coleção Schaum, Editora: McGraw-Hill, 1965.",
+        "ZILL, Dennis G. Equações Diferenciais. Com Aplicações em Modelagem. 2ª ed. Editora: Cengage, 2011."
+      ],
+      "observacoes": [],
+      "libera": [
+        "ENC-39"
+      ],
+      "pasta": "04-semestre/equacoes-diferenciais",
+      "modulos_claude": [
+        "matematica"
+      ],
+      "emoji": "➗",
+      "status": "concluida",
+      "periodo": "2026/1"
+    },
+    {
+      "codigo": "ENC-23",
+      "nome": "Física Geral e Experimental III",
+      "semestre": 4,
+      "nucleo": "Básico",
+      "pre_requisitos": [
+        "ENC-16"
+      ],
+      "eletiva_qualquer": false,
+      "ch": {
+        "total": 68,
+        "teorica": 51,
+        "pratica": 17,
+        "extensao": 0
+      },
+      "ementa": "Carga e matéria. Campo elétrico. Lei de Gauss. Potencial elétrico. Capacitores e dielétricos. Corrente e resistência elétrica. Força eletromotriz e circuito elétrico. Campo magnético. Lei de Ampère. Lei de Faraday. Indutância. Propriedades magnéticas da matéria.",
+      "conteudo": [],
+      "bib_basica": [
+        "BAUER, WESTFALL e DIAS. Física para Universitários: Eletromagnetismo, Editora Mc Graw Hill, 2014;",
+        "SEARS & ZEMANSKY. Física: Eletromagnetismo, 14ª edição, Editora Pearson.",
+        "JEWETT, J. W.; SERWAY, R. A. Física parsa Cientistas e Engenheiros. vol 3. Editora Cengage Learning, 2011."
+      ],
+      "bib_complementar": [
+        "KNIGHT, R. D. Física Uma Abordagem Estratégica. vol.3, 2ª edição, 2009; Editora Bookman.",
+        "ALONSO & FINN. Física um Curso Universitário. vol 2, 2ª edição brasileira, Editora Blucher, 2014;",
+        "NUSSENZVEIG, H. M. Curso de Física Básica. vol 3, 5ª edição, Editora Blucher, 2013;",
+        "SERWAY, R. A.; JEWETT, J. W. Princípios de Física. vol 3, 5ª edição, Editora Cengage Learning, 2014."
+      ],
+      "observacoes": [],
+      "libera": [
+        "ENC-31",
+        "ENC-32",
+        "ENC-36"
+      ],
+      "pasta": "04-semestre/fisica-iii",
+      "modulos_claude": [
+        "fisica"
+      ],
+      "emoji": "⚛️",
+      "status": "concluida",
+      "periodo": "2026/1"
+    },
+    {
+      "codigo": "ENC-24",
+      "nome": "Cálculo Numérico",
+      "semestre": 4,
+      "nucleo": "Profissionalizante",
+      "pre_requisitos": [
+        "ENC-08"
+      ],
+      "eletiva_qualquer": false,
+      "ch": {
+        "total": 68,
+        "teorica": 51,
+        "pratica": 17,
+        "extensao": 0
+      },
+      "ementa": "Introdução. Zeros de funções. Interpolação. Sistemas de equações lineares. Integração numérica. Equações diferenciais ordinárias.",
+      "conteudo": [
+        {
+          "t": "Introdução",
+          "sub": [
+            "Fundamentação",
+            "Motivação sobre o uso dos Métodos Numéricos"
+          ]
+        },
+        {
+          "t": "Sistema de Numeração",
+          "sub": [
+            "Sistemas de Numeração",
+            "Conversão de base numérica",
+            "Erros de representação numérica, sistemas de ponto flutuante (SPF)",
+            "Erro relativo e erro absoluto",
+            "Erros de arredondamento, erros de truncamento e propagação de erros",
+            "Erros de truncamento e série de Taylor"
+          ]
+        },
+        {
+          "t": "Zero Funções",
+          "sub": [
+            "Método da Bissecção",
+            "Método da Falsa Posição. Armadilhas do método da Falsa",
+            "Posição e, erro relativo percentual do método",
+            "Métodos abertos. Iteração de Ponto Fixo Simples. Método de Newton-Raphson",
+            "Análise do erro do Método de Newton-Raphson",
+            "Método da Secante",
+            "Diferenças entre o Método da Secante e da Falsa Posição",
+            "Método da Secante Modificado",
+            "Cálculo de raízes múltiplas",
+            "Método de Newton-Raphson Modificado para raízes múltiplas"
+          ]
+        },
+        {
+          "t": "Sistemas de Equaçòes Algébricas Lineares",
+          "sub": [
+            "Fundamentos Matemáticos e notação matricial",
+            "Eliminação de Gauss",
+            "Método Gráfico",
+            "Determinantes e a Regra de Cramer",
+            "Eliminação de Variáveis. Eliminação de Gauss Ingênua. Eliminação Progressiva e Substituição Regressiva",
+            "Armadilhas da Eliminação de Gauss",
+            "Efeito de Escala no Determinante. Mudança de escala",
+            "Cálculo do determinante usando a Eliminação de Gauss",
+            "Técnicas para melhorar as soluções",
+            "Métodos de Gauss-Jordan e Decomposição LU",
+            "Sistemas Tridiagonais. Algoritmo de Thomas",
+            "Gauss-Seidel e Método SOR"
+          ]
+        },
+        {
+          "t": "Interpolação",
+          "sub": [
+            "Introdução",
+            "Polinômios Interpoladores por Diferenças Divididas de Newton",
+            "Forma geral dos polinômios interpoladores de Newton",
+            "Erros nos polinômios Interpoladores de Newton",
+            "Polinômios Interpoladores de Lagrange",
+            "Interpolação por Splines"
+          ]
+        },
+        {
+          "t": "Integração Numérica",
+          "sub": [
+            "Introdução",
+            "Fórmulas de Integração de Newton-Cotes",
+            "A Regra do Trapézio. Erro na Regra do Trapézio",
+            "Aplicação Múltipla na Regra do Trapézio",
+            "As regras de Simpson. A Regra de 1/3 de Simpson. Aplicações Múltiplas da Regra de 1/3 de Simpson",
+            "A regra de 3/8 de Simpson"
+          ]
+        },
+        {
+          "t": "Equações Diferenciais Ordinárias",
+          "sub": [
+            "Introdução",
+            "Método de Euler",
+            "Métodos de Runge-Kutta"
+          ]
+        }
+      ],
+      "bib_basica": [
+        "BARROSO, L. C. et al. Cálculo Numérico (com Aplicações), 2a ed., São Paulo: Harbra, 1987.",
+        "RUGGIERO, M.A.G.; LOPES, V.L. Cálculo numérico: aspectos teóricos e computacionais. 2a ed., São Paulo: Makron Books, 1997.",
+        "STEVEN C. CHAPRA E RAYMOND P. CANALE. Métodos Numéricos para Engenharia, 5ª ed., Editora McGraw Hill, 2008."
+      ],
+      "bib_complementar": [
+        "ARENALES, S. H. de V.; DAREZZO, A. Cálculo Numérico - com apoio de software, 2ª ed., CENGAGE Learning, 2015.",
+        "BURDEN, L. B.; Douglas F. J. Análise Numérica. CENGAGE Learning. 2ª edição 2008.",
+        "BURIAN, R.; LIMA, A. C. de; HETEM JUNIOR, A. Fundamentos de Informática: Cálculo Numérico. Rio de Janeiro RJ: LTC, 2016.",
+        "PIRES, A. de Abreu. Cálculo Numérico - Práticas com algoritmos e planilhas, 1ª ed., Editora Atlas, 2015.",
+        "SPERANDIO, D. et al., Cálculo Numérico, 2ª ed., Editora Pearson, 2014."
+      ],
+      "observacoes": [],
+      "libera": [],
+      "pasta": "04-semestre/calculo-numerico",
+      "modulos_claude": [
+        "matematica",
+        "programacao"
+      ],
+      "emoji": "➗",
+      "status": "concluida",
+      "periodo": "2026/1"
+    },
+    {
+      "codigo": "ENC-25",
+      "nome": "Banco de Dados",
+      "semestre": 4,
+      "nucleo": "Específico",
+      "pre_requisitos": [
+        "ENC-20"
+      ],
+      "eletiva_qualquer": false,
+      "ch": {
+        "total": 68,
+        "teorica": 51,
+        "pratica": 17,
+        "extensao": 0
+      },
+      "ementa": "Fundamentos de sistemas de banco de dados: modelagem, programação e configuração de banco de dados relacionais. Banco de dados objeto relacionais. Arquitetura e infraestrutura de banco de dados. Uso da linguagem SQL",
+      "conteudo": [],
+      "bib_basica": [
+        "DATE, C. J. Introdução a sistemas de bancos de dados. 8ª ed. Rio de Janeiro-RJ: Coimbra, 2003.",
+        "NAVATHE, S. B.; ELMASRI, R. E. Sistemas de Banco de Dados. 4a ed. São Paulo: Addison Wesley do Brasil, 2005.",
+        "SILBERSCHATZ, A.; KORTH, H. F.; SUDARSHAN, S. Sistema de banco de dados. 6ª ed. São Paulo: Campus, 2012."
+      ],
+      "bib_complementar": [
+        "GUIMARÃES, C. C. Fundamentos de Banco de Dados. 1a ed. Campinas: Unicamp, 2008.",
+        "MACHADO, F. N. R.; ABREU, M. P. Projeto de banco de dados: uma visão prática. 6ª ed. Rio de Janeiro-RJ: Érica, 1996.",
+        "MACHADO, F. N. R. Banco de dados: projeto e implementação. São Paulo-SP: Érica, 2004.",
+        "MEDEIROS, L. F. Banco de Dados. 1a ed. Ebpex, 2007.",
+        "SETZER, V. W. Banco de Dados. 1a ed. Edgard Blucher, 2005."
+      ],
+      "observacoes": [],
+      "libera": [],
+      "pasta": "04-semestre/banco-dados",
+      "modulos_claude": [
+        "programacao",
+        "projeto"
+      ],
+      "emoji": "🗄️",
+      "status": "concluida",
+      "periodo": "2026/1"
+    },
+    {
+      "codigo": "ENC-26",
+      "nome": "Programação Orientada a Objetos",
+      "semestre": 4,
+      "nucleo": "Profissionalizante",
+      "pre_requisitos": [
+        "ENC-20"
+      ],
+      "eletiva_qualquer": false,
+      "ch": {
+        "total": 68,
+        "teorica": 51,
+        "pratica": 17,
+        "extensao": 0
+      },
+      "ementa": "Introdução à uma linguagem de programação orientada a objetos. Ambiente integrado de desenvolvimento de aplicações com uma linguagem orientada a objetos. Compilação e execução de um programa. Variáveis, estruturas de decisão e estruturas de repetição. Fundamentação e definição de classes, objetos, métodos e atributos. Tipo estruturado homogêneo (Arrays). Encapsulamento e organização do código em pacotes. Métodos construtores. Sobrecarga de métodos, herança, sobrescrita e polimorfismo. Interfaces e classes abstratas.",
+      "conteudo": [
+        {
+          "t": "Introdução a uma linguagem de programação orientada a objetos: Sintaxe básica da linguagem adotada (variáveis, tipos, estruturas de controle de fluxo); Ambiente Integrado de Desenvolvimento; Compilação, construção, execução e depuração de programas no ambiente integrado; Conceito de Fundamentais da Orientação a Objetos: Classe; Objeto/Instância; Identificador de Objetos; Atributos (variáveis de instância); Métodos; Métodos construtores; Encapsulamento e organização do código em pacotes: modificadores de escopo (privado, protegido, público); definição de pacotes; padrões de nomenclaturas para elementos de programas orientados a objetos; métodos de acesso e de processamento; Sobrecarga: sobrecarga de métodos construtores; sobrecarga de métodos de processamento; Herança de Implementação: conceito de herança de implementação; sintaxe de definição de herança de implementação; sobrescrita de métodos de processamento; métodos concretos versus métodos abstratos; classes abstratas; polimorfismo com herança de implementação; Herança de Tipo (Interface): conceito de herança de tipo (Interface); sintaxe de definição de herança de tipo; implementação de tipo (interface); polimorfismo com herança de tipo;",
+          "sub": []
+        }
+      ],
+      "bib_basica": [
+        "CARDOSO, Caíque. Orientação a objetos na prática: aprendendo orientação a objetos com Java Rio de Janeiro : Ciência Moderna, 2006.",
+        "DEITEL, H.;DEITEL P.J.. Java: Como Programar, 8ª ed. Pearson, 2010.",
+        "SANTOS, R. Introdução à Programação Orientada a Objetos Usando Java. Rio de Janeiro: Campus, 2003."
+      ],
+      "bib_complementar": [
+        "BARNES, D.; KOLLING, M. Programação Orientada a Objetos usando JAVA. São Paulo-SP: Makron Books, 2004.",
+        "BARNES, D. Programação orientada a objetos com Java : uma introdução prática usando o BlueJ. São Paulo-SP: Prentice Hall, 2009.",
+        "BORATTI, Isaias C. Programação Orientada a Objetos em Java. Florianópolis-SC: VisualBooks. 2007.",
+        "HOLMES, James; SCHILDT, Herbert. A arte do java. Rio de Janeiro-RJ: Elsevier, 2003.",
+        "LOZANO, F. Java em GNU/LINUX. Rio de Janeiro-RJ: Alta Books, 2002."
+      ],
+      "observacoes": [],
+      "libera": [
+        "ENC-29",
+        "ENC-30",
+        "ENC-34"
+      ],
+      "pasta": "04-semestre/programacao-orientada-objetos",
+      "modulos_claude": [
+        "programacao",
+        "projeto"
+      ],
+      "emoji": "💻",
+      "status": "concluida",
+      "periodo": "2026/1"
+    },
+    {
+      "codigo": "ENC-27",
+      "nome": "Matemática Discreta e Teoria dos Grafos",
+      "semestre": 4,
+      "nucleo": "Profissionalizante",
+      "pre_requisitos": [
+        "ENC-13"
+      ],
+      "eletiva_qualquer": false,
+      "ch": {
+        "total": 34,
+        "teorica": 34,
+        "pratica": 0,
+        "extensao": 0
+      },
+      "ementa": "Conjuntos; álgebra dos conjuntos; relações de equivalência e de ordem; funções; indução matemática e recursão; padrões de prova: prova por indução, prova por casos, redução ao absurdo, etc; estruturas algébricas; introdução a grafos; dígrafos; árvores; caminhos, ciclos e conectividade.",
+      "conteudo": [],
+      "bib_basica": [
+        "HUNTER, DAVID J. Fundamentos da Matemática Discreta. 1. ed. [S. l.]: LTC, 2011. ISBN 978- 8521618102.",
+        "SCHEINERMAN, Edward R. Matemática Discreta: Uma Introdução. 3ª ed. São Paulo SP: Cengage Learning, 2016.",
+        "CORMEN, Thomas H. et al. Algoritmos: Teoria e Prática. 3ª ed. Rio de Janeiro RJ: Elsevier, 2012."
+      ],
+      "bib_complementar": [
+        "PRATHER, Ronald E. , Discrete Mathematical Structures for Computer Science . Houghton Mifflin, 1976.",
+        "ROSEN, Kenneth H. , Discrete Mathematics and Its Applications . McGraw-Hill, 5th edition, 2003.",
+        "SCHEINERMAN, Edward R. , Matemática Discreta : uma introdução. Thomson Pioneira, 2001."
+      ],
+      "observacoes": [],
+      "libera": [
+        "ENC-29"
+      ],
+      "pasta": "04-semestre/matematica-discreta-grafos",
+      "modulos_claude": [
+        "matematica"
+      ],
+      "emoji": "➗",
+      "status": "concluida",
+      "periodo": "2026/1"
+    },
+    {
+      "codigo": "ENC-28",
+      "nome": "Transmissão e Comunicação de Dados",
+      "semestre": 4,
+      "nucleo": "Específico",
+      "pre_requisitos": [
+        "ENC-17"
+      ],
+      "eletiva_qualquer": false,
+      "ch": {
+        "total": 68,
+        "teorica": 51,
+        "pratica": 17,
+        "extensao": 0
+      },
+      "ementa": "Teoria de Informação, Fundamentos de Transmissão digital, Técnicas de transmissão digital, Transmissão óptica, Sistemas ópticos, Redes ópticas, Sistemas de transmissão sem fio, Redes sem fio: pessoais, locais e metropolitanas.",
+      "conteudo": [],
+      "bib_basica": [
+        "FOROUZAN, B. A. Comunicação de Dados e Redes de Computadores. 3a ed. Porto Alegre: Bookman, 2006. 52",
+        "ROCHOL, J. Comunicação de Dados. Porto Alegre-RS. Bookman, 2011.",
+        "STALLINGS, W. Redes e Sistemas de Comunicação de Dados. Rio de Janeiro-RJ: Campus, 2005."
+      ],
+      "bib_complementar": [
+        "AGRAWAL, G. P.; SOUZA, J. R. Sistemas de Comunicação por Fibra Óptica. Rio de Janeiro RJ: Elsevier, 2014.",
+        "KUROSE, J. F.; ROSS, K. W.; MARQUES, A. S. Redes de computadores e a internet: uma abordagem top-down. 6ª ed. São Paulo: Pearson Addison Wesley, 2013.",
+        "LIMA, Jr. e WHIRT, A. Tecnologias de Rede & Comunicação de Dados. 1a ed., Alta Books, 2002.",
+        "TANENBAUM, A. S. Redes de Computadores. 4a ed. Rio de Janeiro: Campus, 2003.",
+        "WHITE, C. M. Redes de Computadores e Comunicação de Dados. 1a ed. Cengage, 2011."
+      ],
+      "observacoes": [],
+      "libera": [
+        "ENC-42"
+      ],
+      "pasta": "04-semestre/transmissao-comunicacao-dados",
+      "modulos_claude": [
+        "circuitos",
+        "matematica"
+      ],
+      "emoji": "🔌",
+      "status": "concluida",
+      "periodo": "2026/1"
+    },
+    {
+      "codigo": "ENC-29",
+      "nome": "Compiladores",
+      "semestre": 5,
+      "nucleo": "Específico",
+      "pre_requisitos": [
+        "ENC-12",
+        "ENC-26",
+        "ENC-27"
+      ],
+      "eletiva_qualquer": false,
+      "ch": {
+        "total": 68,
+        "teorica": 34,
+        "pratica": 34,
+        "extensao": 0
+      },
+      "ementa": "Compilação: Conceitos básicos. Alguns compiladores importantes. Aspectos e ferramentas para construção de compiladores. Análises léxica, sintática e semântica. Geração e otimização de código intermediário. Ambientes de tempo de execução. Gerenciamento de memória. Otimização de código objeto.",
+      "conteudo": [],
+      "bib_basica": [
+        "AHO, A. V.; et al. Compiladores. 2a ed. São Paulo: Longman do Brasil, 2007.",
+        "LOUDEN, K. C.; SILVA, F. S. C. da Compiladores - Princípios e Práticas. 1 a ed. São Paulo: Pioneira Thomson Learning, 2004.",
+        "TOSCANI, S. S.; PRICE, A. M. de A. Implementação de linguagens de programação: compiladores. Rio de Janeiro-RJ: Sagra, 2000."
+      ],
+      "bib_complementar": [
+        "DELAMARO. E. D. Como Construir um Compilador. 1a ed. Novatec, 2004.",
+        "GRUNE, D. et al. Projeto Moderno de Compiladores - Implementação e Aplicações. 1a ed. Rio de Janeiro: Campus, 2001.",
+        "BOAVENTURA NETTO, P. O. Teoria modelos de grafos. São Paulo SP: John Wiley e Sons, 1979.",
+        "RICARTE, I. L. M. Introdução à Compilação. Rio de Janeiro-RJ. Elsevier, 2008.",
+        "SEBESTA, R. W. Conceitos de linguagens de programação. Porto Alegre: Bookman, 2011."
+      ],
+      "observacoes": [],
+      "libera": [
+        "ENC-44"
+      ],
+      "pasta": "05-semestre/compiladores",
+      "modulos_claude": [
+        "programacao",
+        "projeto"
+      ],
+      "emoji": "🧩",
+      "status": "cursando",
+      "periodo": "2026/2"
+    },
+    {
+      "codigo": "ENC-30",
+      "nome": "Programação Web",
+      "semestre": 5,
+      "nucleo": "Específico",
+      "pre_requisitos": [
+        "ENC-26"
+      ],
+      "eletiva_qualquer": false,
+      "ch": {
+        "total": 68,
+        "teorica": 34,
+        "pratica": 34,
+        "extensao": 0
+      },
+      "ementa": "Projetos de Sistemas para Web: modelo cliente-servidor, padrão MVC, arquitetura em camadas, protocolo HTTP. Linguagens para Interface com o usuário. Servidores: web, web dinâmico e de aplicação. Linguagens de programação para Internet. Tecnologias de apoio à programação para Internet. Frameworks de programação para Internet.",
+      "conteudo": [
+        {
+          "t": "Projeto de Sistemas para Web",
+          "sub": [
+            "Modelo cliente-servidor",
+            "Padrão MVC",
+            "Arquitetura em Camadas",
+            "Protocolo HTTP"
+          ]
+        },
+        {
+          "t": "Linguagens para interface com usuário",
+          "sub": [
+            "HTML",
+            "CSS",
+            "Javascript",
+            "Frameworks front-end"
+          ]
+        },
+        {
+          "t": "Servidores",
+          "sub": [
+            "Web",
+            "Aplicação",
+            "Instalação e configuração"
+          ]
+        },
+        {
+          "t": "Programação Back-end",
+          "sub": [
+            "HTTP para programação back-end",
+            "Manutenção de estado em aplicações web (campos ocultos, cookies, sessões)",
+            "Frameworks para programação back-end"
+          ]
+        }
+      ],
+      "bib_basica": [
+        "DEITEL, Paul J. Ajax, rich internet aplications e desenvolvimento web para programadores.",
+        "SILVA, Maurício Silva. CSS3",
+        "DIAS, Claudia. Usabilidade na web."
+      ],
+      "bib_complementar": [
+        "SILVA, Luciano Carlos. Banco de dados para web : do planejamento à implementação.",
+        "GRINBERG, Miguel. Desenvolvimento web com flask.",
+        "MARCONDES, Christian Alfim .Html 4.0 fundamental : a base da programação para web.",
+        "SMITH, Dori. Javascript",
+        "FORRISTAL, Jeff. Site seguro: aplicações web."
+      ],
+      "observacoes": [],
+      "libera": [],
+      "pasta": "05-semestre/programacao-web",
+      "modulos_claude": [
+        "programacao",
+        "projeto"
+      ],
+      "emoji": "🌐",
+      "status": "cursando",
+      "periodo": "2026/2"
+    },
+    {
+      "codigo": "ENC-31",
+      "nome": "Circuitos Elétricos I",
+      "semestre": 5,
+      "nucleo": "Básico",
+      "pre_requisitos": [
+        "ENC-17",
+        "ENC-23"
+      ],
+      "eletiva_qualquer": false,
+      "ch": {
+        "total": 68,
+        "teorica": 61,
+        "pratica": 0,
+        "extensao": 7
+      },
+      "ementa": "Corrente e carga elétricas; Sentido real e convencional; Potencial e diferença de potencial elétrico; Elementos de circuito e Associação de resistores; Leis de Ohm, Ampère e Kirchhoff; Métodos de análise de circuitos: Análise por ramos, malhas, nós e métodos matriciais; Teoremas de Thévenin, Norton e da Superposição; Indutores, Capacitores e Circuitos de 1ª e 2ª ordem (RC, RL e RLC).",
+      "conteudo": [],
+      "bib_basica": [
+        "HILBURN J. L., JOHNSON D. E., JOHNSON J. R. Fundamentos de Análise de Circuitos Elétricos. 4ª ed., Rio de Janeiro: LTC, 1994.",
+        "BOYLESTAD, R. L. Introdução à Análise de Circuitos, 12ª ed. São Paulo: Pearson do Brasil, 2012.",
+        "SADIKU, M. N.; MUSA, S.; ALEXANDER, C. K. Análise de Circuitos Elétricos com Aplicações. 1ª ed, Porto Alegre: McGraw-Hill, 2014."
+      ],
+      "bib_complementar": [
+        "EDMINISTER, J. A., Circuitos Elétricos, Coleção Schaum, 5ª ed. São Paulo: Bookman, 2014.",
+        "ALEXANDER, C. K.; SADIKU, M. N. O. Fundamentos de Circuitos Elétricos, 5ª ed., Porto Alegre: McGraw-Hill, 2013.",
+        "HAYT Jr., W. H.; KEMMERLY, J. E., DURBIN, S. M. Análise de Circuitos em Engenharia. 8ª ed. Porto Alegre: McGraw-Hill, 2014.",
+        "NILSSON, J. W.; RIEDEL, S. A. Circuitos Elétricos. 8ª ed. São Paulo: Person, 2009.ROBBINS, A. H. e MILLER, W. C., Análise de Circuitos – Teoria e Prática Volume 1, 1ª ed., São Paulo: CENGAGE Learming, 2010."
+      ],
+      "observacoes": [],
+      "libera": [
+        "ENC-37",
+        "ENC-38",
+        "ENC-39"
+      ],
+      "pasta": "05-semestre/circuitos-eletricos-i",
+      "modulos_claude": [
+        "circuitos",
+        "matematica"
+      ],
+      "emoji": "🔌",
+      "status": "cursando",
+      "periodo": "2026/2"
+    },
+    {
+      "codigo": "ENC-32",
+      "nome": "Laboratório de Circuitos Elétricos I",
+      "semestre": 5,
+      "nucleo": "Básico",
+      "pre_requisitos": [
+        "ENC-17",
+        "ENC-23"
+      ],
+      "eletiva_qualquer": false,
+      "ch": {
+        "total": 34,
+        "teorica": 27,
+        "pratica": 0,
+        "extensao": 7
+      },
+      "ementa": "Verificar experimentalmente os fundamentos da teoria de circuitos em corrente contínua e alternada monofásica, no que se refere a: Medição de grandezas elétricas. Instrumentos de medição elétricos analógicos e digitais: Voltímetro, amperímetro, ohmímetro e osciloscópio. Gerador de funções. Lei de Ohm Associação de resistores. Código de cores. Leis de Kirchhoff. Divisor de tensão. Divisor de corrente. Ponte de Wheatstone. Superposição. Circuitos de equivalentes de Thévenin e Norton. Máxima transferência potência. Medição de correntes senoidais em circuitoe RLC. Determinação de constante de tempo RC e RL e RLC",
+      "conteudo": [],
+      "bib_basica": [
+        "ALEXANDER, Charles K.; SADIKU, Matthew N. O. Fundamentos de circuitos elétricos. 3. ed. São Paulo: McGraw-Hill, 2008.",
+        "BOYLESTAD, Robert L. Introdução à análise de circuitos. 10. ed. São Paulo, SP: Prentice Hall, 2004.",
+        "DORF, Richard C.; SVOBODA, James A. Introdução aos circuitos elétricos. 5. ed. Rio de Janeiro, RJ: LTC, 2003."
+      ],
+      "bib_complementar": [
+        "CAPUANO, Francisco Gabriel; MARINO, Maria Aparecida Mendes. Laboratório de Eletricidade e Eletrônica. 24a ed. São Paulo. Érica, 2008.",
+        "IRWIN, J. David; NELMS, R. Mark. Análise básica de circuitos para engenharia. 9. ed. Rio de Janeiro, RJ: LTC, 2010.",
+        "HAYT JUNIOR, William Hart; KEMMERLY, Jack E.; DURBIN, Steven M. Análise de circuitos em engenharia. 7. ed. São Paulo, SP: McGraw-Hill, 2008.",
+        "NILSON, James W., RIEDEL, Susan A., Circuitos Elétricos, 2003, 6. Edição, Editora LTC.",
+        "JOHNSON, David E., HILBURN, John L., JOHNSON, Johnny R., Fundamentos de Análise de Circuitos Elétricos, Editora Prentice Hall."
+      ],
+      "observacoes": [],
+      "libera": [],
+      "pasta": "05-semestre/lab-circuitos-eletricos-i",
+      "modulos_claude": [
+        "circuitos"
+      ],
+      "emoji": "🔌",
+      "status": "cursando",
+      "periodo": "2026/2"
+    },
+    {
+      "codigo": "ENC-33",
+      "nome": "Extensão I",
+      "semestre": 5,
+      "nucleo": "—",
+      "pre_requisitos": [
+        "ENC-18"
+      ],
+      "eletiva_qualquer": false,
+      "ch": {
+        "total": 102,
+        "teorica": 0,
+        "pratica": 0,
+        "extensao": 102
+      },
+      "ementa": "Conceber projetos de extensão, através da identificação de oportunidades na comunidade. Planejar as atividades de extensão com estruturação de projetos. Gerir os projetos de extensão com organização de equipe, monitoramento e controle de atividades. Comunicar e relizar mobilização comunitária para engajamento dos projetos. Apresentar e divulgar os resultados do projeto.",
+      "conteudo": [],
+      "bib_basica": [
+        "A bibliografia será estabelecida conforme o projeto de Extensão aprovado"
+      ],
+      "bib_complementar": [],
+      "observacoes": [],
+      "libera": [
+        "ENC-48"
+      ],
+      "pasta": "05-semestre/extensao-i",
+      "modulos_claude": [
+        "extensao",
+        "projeto"
+      ],
+      "emoji": "🤝",
+      "status": "cursando",
+      "periodo": "2026/2"
+    },
+    {
+      "codigo": "ENC-34",
+      "nome": "Engenharia de Software",
+      "semestre": 5,
+      "nucleo": "Específico",
+      "pre_requisitos": [
+        "ENC-26"
+      ],
+      "eletiva_qualquer": false,
+      "ch": {
+        "total": 68,
+        "teorica": 34,
+        "pratica": 34,
+        "extensao": 0
+      },
+      "ementa": "Visão geral e princípios fundamentais da Engenharia de Software. Ciclo de vida de software e seus estágios. Processo de Software, Modelos de processos de Software. Técnicas de gerenciamento e planejamento de software. Requisitos e especificações de software. Métodos de análise e projeto de software. Padrões de projeto. Teste e revisão de software. Implantação e manutenção de software.",
+      "conteudo": [
+        {
+          "t": "Software e Engenharia de Software",
+          "sub": [
+            "A natureza do software",
+            "1.2. Engenharia de software",
+            "1.3. O processo do software",
+            "1.4. Práticas de engenharia de software",
+            "1.5. Mitos do software",
+            "1.6 Ciclo de vida de software"
+          ]
+        },
+        {
+          "t": "Modelos de Processo",
+          "sub": [
+            "2.1. Modelo genérico de processo",
+            "2.2. Processo de avaliação e melhoria",
+            "2.3. Modelos de processo consagrados",
+            "2.4. Modelos de processo especializados",
+            "2.5. O processo unificado",
+            "2.6. Produto e processo"
+          ]
+        },
+        {
+          "t": "Desenvolvimento Ágil",
+          "sub": [
+            "3.1. O que é agilidade?",
+            "3.2. Agilidade e o custo da mudança",
+            "3.3. Processo ágil",
+            "3.4. Extreme Programming (XP) / Scrum",
+            "3.5. Outros processos ágeis"
+          ]
+        },
+        {
+          "t": "Requisitos",
+          "sub": [
+            "4.1. Engenharia de requisitos",
+            "4.2. Tipos de requisitos",
+            "4.3. Elicitação",
+            "4.4. Casos de uso",
+            "4.5. Negociação",
+            "4.6. Validação"
+          ]
+        },
+        {
+          "t": "UML",
+          "sub": [
+            "5.1. Introdução",
+            "5.2. Diagramas (Caso de Uso, Classes, Sequência, Comunicação, Estados, Atividades, Componentes, Implantação)"
+          ]
+        },
+        {
+          "t": "Projeto",
+          "sub": [
+            "6.1. Conceitos",
+            "6.2. Modelos",
+            "6.3. Projeto Arquitetural",
+            "6.4. Projeto de Interface",
+            "6.5. Padrões de projeto"
+          ]
+        },
+        {
+          "t": "Qualidade",
+          "sub": [
+            "7.1. Conceito",
+            "7.2. Qualidade em Software",
+            "7.3. Técnicas de revisão",
+            "7.4. Estratégias de teste"
+          ]
+        },
+        {
+          "t": "Gerenciamento de Configuração e Mudança",
+          "sub": [
+            "8.1. Conceitos;",
+            "8.2. Repositório",
+            "8.3. Processo"
+          ]
+        }
+      ],
+      "bib_basica": [
+        "HIRAMA, Kechi. Engenharia de software: Qualidade e Produtividade com Tecnologia. Rio de Janeiro-RJ: Elsevier, 2012.",
+        "PRESSMAN, R. S. Engenharia de software: uma abordagem profissional. Porto alegre: AMGH, 2011.",
+        "SOMMERVILLE, L.; OLIVEIRA, K. Engenharia de software. 9ª ed. São paulo: Pearson Prentice Hall, 2011."
+      ],
+      "bib_complementar": [
+        "MAFFEO, B. Engenharia de software e especificação de sistemas: soluções para quem necessita da informação para agir. Rio de Janeiro-RJ: Coimbra, 1992.",
+        "PAULA FILHO, W. de P. Engenharia de Software. 3a ed. Rio de Janeiro: LTC, 2009.",
+        "PRESSMAN, R. S. Engenharia de Software. 6a ed. Porto Alegre: Bookman, 2006.",
+        "SCHACH, S. R. Engenharia de Software: Os Paradigmas Clássico. São Paulo SP: Makron Mcgraw-hilll, 2009.",
+        "TONSIG, S. L. Engenharia de Software: Análise e Projeto de Sistemas. Rio de Janeiro-RJ: Ciência Moderna, 2013."
+      ],
+      "observacoes": [],
+      "libera": [
+        "ENC-40"
+      ],
+      "pasta": "05-semestre/engenharia-software",
+      "modulos_claude": [
+        "projeto"
+      ],
+      "emoji": "🏗️",
+      "status": "cursando",
+      "periodo": "2026/2"
+    },
+    {
+      "codigo": "ENC-35",
+      "nome": "Ética Profissional",
+      "semestre": 5,
+      "nucleo": "Básico",
+      "pre_requisitos": [],
+      "eletiva_qualquer": false,
+      "ch": {
+        "total": 34,
+        "teorica": 17,
+        "pratica": 0,
+        "extensao": 17
+      },
+      "ementa": "Fundamentos da Ética. Abrangência da Ética. Ética Profissional. Código de Ética Profissional. Responsabilidade técnica e intelectual. Legislação profissional: Introdução à Ética. Divisões da ética: metaética, ética normativa e ética aplicada. Ética e Trabalho. Teleologia e Deontologia. Atribuições profissionais: Dos direitos e deveres do profissional de engenharia. Código de defesa do consumidor: Uma análise reflexiva sobre o Código de proteção e defesa do consumidor. Código de ética profissional: Uma análise reflexiva sobre o Código de ética Profissional da Engenharia. Responsabilidade técnica: Das responsabilidades do profissional de engenharia. A responsabilidade com a sociedade e com o meio ambiente. Propriedade intelectual: A regulamentação quanto aos direitos individuais de propriedade intelectual. A abordagem ética e a abordagem jurídica.",
+      "conteudo": [],
+      "bib_basica": [
+        "NUNES, R. Curso de Direito do Consumidor. 5ª ed. São Paulo: Saraiva, 2010.",
+        "RODRIGUES JÚNIOR, E. B. et al. Propriedade Intel NALINI, J. R. Ética geral e profissional. São Paulo: RT.ectual. 1a ed. São Paulo: Atlas, 2007.",
+        "NAILINI, J. R. Ética geral e profissional. São Paulo: RT."
+      ],
+      "bib_complementar": [
+        "SOUZA, Francisco das Chagas de. Ética e deontologia: textos para profissionais atuantes em bibliotecas. Florianópolis: Ed. UFSC, 2002.",
+        "TUGENDHAT, E. Lições sobre ética. 4ª ed., Petrópolis: Vozes, 1996.",
+        "VALENTIM, M. L. P. O profissional da informação; formação, perfil e atuação profissional. São Paulo: Polis, 2000.",
+        "Resolução N° 1004 - Regulamento para a Condução do Processo Ético Disciplinar.",
+        "Decisão Normativa n°94 – Manual de procedimentos para a condução dos processos de Ética Profissional"
+      ],
+      "observacoes": [],
+      "libera": [],
+      "pasta": "05-semestre/etica-profissional",
+      "modulos_claude": [
+        "teorica",
+        "extensao"
+      ],
+      "emoji": "📝",
+      "status": "cursando",
+      "periodo": "2026/2"
+    },
+    {
+      "codigo": "ENC-36",
+      "nome": "Eletrônica Analógica I",
+      "semestre": 6,
+      "nucleo": "Profissionalizante",
+      "pre_requisitos": [
+        "ENC-23"
+      ],
+      "eletiva_qualquer": false,
+      "ch": {
+        "total": 68,
+        "teorica": 51,
+        "pratica": 17,
+        "extensao": 0
+      },
+      "ementa": "Teoria de semicondutores. Junção PN. Diodos e Aplicações. Transistores bipolares. Transistores de efeito de campo: JFET's e MOSFET's. Análise CC e CA para Transistores. Modelagem de Transistores. Amplificadores emissor comum, base comum e coletor comum. Amplificadores classe A, B e AB. Fontes de Tensão Estabilizadas.",
+      "conteudo": [],
+      "bib_basica": [
+        "SEDRA, A. S.; SMITH, K. C. Microeletrônica. 5ª Ed., São Paulo: Pearson, 2007.",
+        "BOYLESTAD, R. L.; NASHELSKY, L. Dispositivos Eletrônicos e Teoria de Circuitos. 11a ed., São Paulo: Pearson, 2013.",
+        "BOGART, J. Dispositivos e Circuitos Eletrônicos. São Paulo: Makron, 2000."
+      ],
+      "bib_complementar": [
+        "MALVINO, A. P. Eletrônica. vol. I e II, São Paulo: Editora McGraw Hill.",
+        "MARQUES, A. E. Dispositivos Semicondutores: Diodos e Transistores, Editora Érica.",
+        "CAPUANO, F. G. e MARINO, M. A. M., Laboratório de Eletricidade e Eletrônica. Editora Érica.",
+        "SCHULER, C. Eletrônica I e II - Série Tekne, 7ª Ed. 2013, Editora Amgh.",
+        "CRUZ, E. C. A. e CHOUERI, S., Eletrônica Aplicada, Editora Érica"
+      ],
+      "observacoes": [],
+      "libera": [],
+      "pasta": "06-semestre/eletronica-analogica-i",
+      "modulos_claude": [
+        "circuitos"
+      ],
+      "emoji": "🔌",
+      "status": "futura",
+      "periodo": "2027/1"
+    },
+    {
+      "codigo": "ENC-37",
+      "nome": "Circuitos Elétricos II",
+      "semestre": 6,
+      "nucleo": "Profissionalizante",
+      "pre_requisitos": [
+        "ENC-31"
+      ],
+      "eletiva_qualquer": false,
+      "ch": {
+        "total": 68,
+        "teorica": 61,
+        "pratica": 0,
+        "extensao": 7
+      },
+      "ementa": "Comportamento transitório e permanente; Análise de circuitos em regime permanente senoidal; Matrizes impedância e admitância; Circuitos lineares no domínio do tempo, utilizando a teoria das redes; Fasores e análise de sistemas fasoriais; Potências ativa, reativa e complexa; Correção do fator de potência; Circuitos Polifásicos; Circuitos trifásicos equilibrados e desequilibrados; Sistemas Y e Delta; Medição de Potência.",
+      "conteudo": [],
+      "bib_basica": [
+        "HILBURN J. L., JOHNSON D. E., JOHNSON J. R., Fundamentos de Análise de Circuitos Elétricos. 4ª ed., Rio de Janeiro: LTC, 1994.",
+        "NILSSON, J. W.; RIEDEL, S. A. Circuitos Elétricos. 8 a ed. São Paulo: Prentice Hall do Brasil, 2008.",
+        "BOYLESTAD, R. L. Introdução à Análise de Circuitos, São Paulo: Editora Prentice Hall."
+      ],
+      "bib_complementar": [
+        "EDMINISTER, J.A., Circuitos Elétricos, Coleção Schaum, 5ª ed. São Paulo: Bookman, 2014. ALEXANDER, C. K.; SADIKU, M. N. O. Fundamentos de Circuitos Elétricos, 5ª ed., Porto Alegre: McGraw-Hill, 2013.",
+        "HAYT Jr., W. H.; KEMMERLY, J. E., DURBIN, S. M. Análise de Circuitos em Engenharia. 8ª ed. Porto Alegre: McGraw-Hill, 2014.",
+        "SADIKU, M. N.; MUSA, S.; ALEXANDER, C. K. Análise de Circuitos Elétricos com Aplicações. 1ª ed, Porto Alegre: McGraw-Hill, 2014.",
+        "ROBBINS, A. H. e MILLER, W. C., Análise de Circuitos – Teoria e Prática. Volume 1, 1ª ed, São Paulo: CENGAGE Learning, 2010"
+      ],
+      "observacoes": [],
+      "libera": [
+        "ENC-43"
+      ],
+      "pasta": "06-semestre/circuitos-eletricos-ii",
+      "modulos_claude": [
+        "circuitos",
+        "matematica"
+      ],
+      "emoji": "🔌",
+      "status": "futura",
+      "periodo": "2027/1"
+    },
+    {
+      "codigo": "ENC-38",
+      "nome": "Laboratório de Circuitos Elétricos II",
+      "semestre": 6,
+      "nucleo": "Profissionalizante",
+      "pre_requisitos": [
+        "ENC-31"
+      ],
+      "eletiva_qualquer": false,
+      "ch": {
+        "total": 34,
+        "teorica": 27,
+        "pratica": 0,
+        "extensao": 7
+      },
+      "ementa": "Circuitos monofásicos e trifásicos. Comportamento transitório e permanente. Análise de circuitos em regime permanente senoidal. Potências ativa, reativa e complexa. Correção do fator de potência. Circuitos Polifásicos; Circuitos trifásicos equilibrados e desequilibrados; Sistemas Y e Delta. Medição de Potência.",
+      "conteudo": [],
+      "bib_basica": [
+        "CLOSE, Charles M. Análise de Circuitos Lineares.",
+        "ROBBA, Joao Ernesto. Introdução a Sistemas Elétricos de Potência.",
+        "STEVENSON, W. Elementos de análise de sistemas de potência."
+      ],
+      "bib_complementar": [
+        "CAPUANO, Francisco Gabriel; MARINO, Maria Aparecida Mendes. Laboratório de Eletricidade e Eletrônica. 24a ed. São Paulo. Érica, 2008.",
+        "IRWIN, J. David; NELMS, R. Mark. Análise básica de circuitos para engenharia. 9. ed. Rio de Janeiro, RJ: LTC, 2010.",
+        "HAYT JUNIOR, William Hart; KEMMERLY, Jack E.; DURBIN, Steven M. Análise de circuitos em engenharia. 7. ed. São Paulo, SP: McGraw-Hill, 2008.",
+        "NILSON, James W., RIEDEL, Susan A., Circuitos Elétricos, 2003, 6. Edição, Editora LTC.",
+        "JOHNSON, David E., HILBURN, John L., JOHNSON, Johnny R., Circuitos Elétricos, Editora Prentice Hall."
+      ],
+      "observacoes": [],
+      "libera": [],
+      "pasta": "06-semestre/lab-circuitos-eletricos-ii",
+      "modulos_claude": [
+        "circuitos"
+      ],
+      "emoji": "🔌",
+      "status": "futura",
+      "periodo": "2027/1"
+    },
+    {
+      "codigo": "ENC-39",
+      "nome": "Sinais e Sistemas Lineares",
+      "semestre": 6,
+      "nucleo": "Específico",
+      "pre_requisitos": [
+        "ENC-22",
+        "ENC-31"
+      ],
+      "eletiva_qualquer": false,
+      "ch": {
+        "total": 68,
+        "teorica": 68,
+        "pratica": 0,
+        "extensao": 0
+      },
+      "ementa": "Sinais e Sistemas. Classificação dos sinais. Classificação dos sistemas. Modelos e medidas de sinais. Análise no tempo de sinais contínuos e discretos. Modelo de Sistemas: Descrição Entrada-Saída Propriedade da função impulso unitário e degrau unitário de tempo discreto. Sistemas Lineares Invariantes no Tempo. Integrais e Somas de convolução. Estabilidade BIBO e estabilidade assintótica. Séries de Fourier de tempo contínuo. Transformada de Fourier de tempo contínuo. Caracterização de Sinais e Sistemas no domínio da frequência – Diagrama de Bode. Séries de Fourier de tempo discreto. Transformada de Fourier de tempo discreto. Transformada discreta de Fourier. Transformada de Laplace. Transformada Z e equações diferenças. Amostragem. Simulação computacional utilizando software apropriado",
+      "conteudo": [],
+      "bib_basica": [
+        "LATHI, B.P. Sinais e Sistemas Lineares. 2a ed., Porto Alegre: Bookman, 2007.",
+        "HAYKIN, S. S.; VEEN, B. V. Sinais e Sistemas. Porto Alegre: Bookman, 2000.",
+        "OPPENHEIM, A.V, Willsky, A.S. Sinais e Sistemas lineares. 2a edição, São Paulo, Editora Pearson"
+      ],
+      "bib_complementar": [
+        "KWAKERNAAK & SIVAN, Modern Signal and Systems, Prentice Hall 1992.",
+        "OPPENHEIM, A.V., SCHAFER, R.W. Processamento em Tempo Discreto de Sinais, 3 ª Ed, São Paulo, Editora Pearson.",
+        "CHEN, C.T. Linear System Theory and Design, 4ª Ed. The Oxford Series In Electrical and Computer Engineering."
+      ],
+      "observacoes": [],
+      "libera": [
+        "ENC-45",
+        "ENC-50"
+      ],
+      "pasta": "06-semestre/sinais-sistemas-lineares",
+      "modulos_claude": [
+        "matematica",
+        "circuitos"
+      ],
+      "emoji": "➗",
+      "status": "futura",
+      "periodo": "2027/1"
+    },
+    {
+      "codigo": "ENC-40",
+      "nome": "Análise e Projeto de Sistemas Computacionais",
+      "semestre": 6,
+      "nucleo": "Específico",
+      "pre_requisitos": [
+        "ENC-34"
+      ],
+      "eletiva_qualquer": false,
+      "ch": {
+        "total": 68,
+        "teorica": 51,
+        "pratica": 17,
+        "extensao": 0
+      },
+      "ementa": "Metodologia de gerenciamento e gestão das atividades envolvidas na produção de um sistema computacional. Métodos, técnicas e padrões para especificação de requisitos de sistemas computacionais. Padrões de desenhos técnicos para as fases de análise e projeto de sistemas computacionais. Padrões arquiteturais para o projeto de soluções de sistema computacionais;",
+      "conteudo": [
+        {
+          "t": "Metodologia de gerenciamento e gestão: introdução às metodologias ágeis de gestão de projeto (Scrum); papéis previstos na metodologia; atividades previstas na metodologia; produtos do processo de gerenciamento e gestão. Métodos, técnicas e padrões para especificação de requisitos: técnicas de investigação e elicitação de requisitos de sistemas computacionais; técnicas de registro e documentação de requisitos de sistemas computacionais (User Story); padrões e boas práticas para a especificação de requisitos; Padrões de desenhos técnicos: simbologia para representação de elementos de software (UML); simbologia para representação de elementos de infraestrutura; simbologia para representação de elementos de redes de comunicação; simbologia para a representação de elementos de hardware (elétricos, eletrônicos, microprocessadores e atuadores) de um sistema embarcado. Padrões arquiteturais para o projeto de soluções de sistema computacionais: padrões arquiteturais para elementos de softwares; padrões arquiteturais para infraestrutura; padrões arquiteturais para redes de comunicação;",
+          "sub": []
+        }
+      ],
+      "bib_basica": [
+        "LARMAN, Craig. Utilizando UML e padrões: uma introdução à análise e ao projeto orientados a objetos e ao desenvolvimento iterativo. 3ª ed. Porto Alegre-RS: Bookman, 2008.",
+        "TONSIG, Sérgio Luiz. Engenharia de Software: Análise e Projeto de Sistemas. Rio de Janeiro- RJ: Ciência Moderna, 2013.",
+        "WAZLAWICK, Raul Sidnei. Análise e projeto de sistemas de informação orientados a objetos. Rio de Janeiro-RJ: Elsevier, 2011."
+      ],
+      "bib_complementar": [
+        "BRAUDE, Eric. Projeto de software: da programação à arquitetura: uma abordagem baseada em java. Porto Alegre-RS: Bookman, 2005.",
+        "DENNIS, Alan; GEINHART, MIchele. Análise e projetos de sistemas. 2ª ed. Rio de Janeiro-RJ: LTC - Livros Técnicos e Científicos, 2005.",
+        "MELO, Ana Cristina. Desenvolvendo aplicações com UML 2.0, do conceitual à implementação. 2ª ed. Rio de Janeiro-RJ: Brasport, 2008.",
+        "YOURDON, Edward; ARGILA, Carl. Análise e projeto orientados a objetos. São Paulo-SP: Makron Books do Brasil, 1999.",
+        "TONSIG, Sérgio Luiz. Engenharia de Software: Análise e Projeto de Sistemas. Rio de Janeiro- RJ: Ciência Moderna, 2013."
+      ],
+      "observacoes": [],
+      "libera": [],
+      "pasta": "06-semestre/analise-projeto-sistemas-computacionais",
+      "modulos_claude": [
+        "projeto"
+      ],
+      "emoji": "🏗️",
+      "status": "futura",
+      "periodo": "2027/1"
+    },
+    {
+      "codigo": "ENC-41",
+      "nome": "Inteligência Artificial",
+      "semestre": 6,
+      "nucleo": "Específico",
+      "pre_requisitos": [
+        "ENC-21"
+      ],
+      "eletiva_qualquer": false,
+      "ch": {
+        "total": 68,
+        "teorica": 34,
+        "pratica": 34,
+        "extensao": 0
+      },
+      "ementa": "Introdução à Inteligência Artificial – IA, resolução de problemas, Conhecimento e raciocínio, planejamento, incerteza, aprendizagem de máquina com redes neurais e algoritmos genéticos, sistemas especialistas, Processamento de linguagem natural, aplicações.",
+      "conteudo": [
+        {
+          "t": "Fundamentos da Inteligência Artificial",
+          "sub": [
+            "Conceitos",
+            "Histórico e principais definições",
+            "Aplicações",
+            "Perspectivas"
+          ]
+        },
+        {
+          "t": "Resolução de problemas por busca",
+          "sub": [
+            "Objetivo",
+            "Função de custo de caminho",
+            "Qualidade de uma solução",
+            "Problemas exemplos",
+            "Estrutura dos nós nas árvores de busca",
+            "Desempenho: completeza, otimização, complexidade de tempo e de espaço, fator de ramificação, profundidade, comprimento máximo e custo de busca",
+            "Estratégias de busca sem informação",
+            "Estratégia de busca informada (heurística)",
+            "Funções heurísticas"
+          ]
+        },
+        {
+          "t": "Representação de Conhecimento",
+          "sub": [
+            "Agentes lógicos",
+            "Lógica proposicional",
+            "Inferência na lógica proposicional",
+            "Lógica de primeira ordem",
+            "Sistemas Especialistas"
+          ]
+        },
+        {
+          "t": "Agentes inteligentes",
+          "sub": [
+            "Agentes e ambientes",
+            "Tipos e Propriedades de Agentes",
+            "Racionalidade",
+            "Arquiteturas e Organizações SMA",
+            "Comunicação, Coordenação, Cooperação e Colaboração",
+            "Integração e Interoperação de SMA",
+            "Modelagem e Implementação de Agentes"
+          ]
+        },
+        {
+          "t": "Lógica Fuzzy",
+          "sub": [
+            "Conjuntos fuzzy: definições formais e operações",
+            "Princípios básicos da lógica fuzzy",
+            "Inferência fuzzy",
+            "Métodos de defuzificação",
+            "Geração de base de regras",
+            "Projeto de sistemas fuzzy"
+          ]
+        },
+        {
+          "t": "Algoritmos Genéticos",
+          "sub": [
+            "Introdução",
+            "Cruzamento",
+            "Mutação",
+            "Exemplos de aplicações"
+          ]
+        },
+        {
+          "t": "Redes Neurais Artificiais",
+          "sub": [
+            "Histórico dos modelos conexionistas",
+            "Modelos do neurônio biológico e do neurônio artificial",
+            "Arquiteturas de Redes Neurais Artificiais e Processos de Treinamento",
+            "O Perceptron: análise matemática e treinamento",
+            "Perceptron de múltiplas camadas (MLP)",
+            "Retropropagação de erros (back propagation) e suas variações",
+            "Implementação de uma rede MLP com back propagation em Python"
+          ]
+        }
+      ],
+      "bib_basica": [
+        "RUSSEL, S. Inteligência Artificial. 3a ed. Campus, 2013",
+        "BRAGA, A. de P. Redes Neurais Artificiais. 2a ed. Rio de Janeiro: LTC, 2007",
+        "HAYKIN, S. S. Redes Neurais. 2a ed. Porto Alegre: Bookman, 2000"
+      ],
+      "bib_complementar": [
+        "COPPIN, B. Inteligência Artificial. 1a ed. LTC, 2017",
+        "LUGER, G. F. Inteligência Artificial. 6a ed. Pearson, 2013",
+        "BITTENCOURT, G. Inteligência artificial: ferramentas e teorias. 3.ed. Florianópolis: Editora da UFSC, 2006.",
+        "SILVA, F.S.C. D.; FINGER, M.; MELO, A.C.V. D. Lógica para computação - 2ª edição. São Paulo: Cengage Learning Brasil, 2018. 9788522127191."
+      ],
+      "observacoes": [],
+      "libera": [
+        "ENC-47"
+      ],
+      "pasta": "06-semestre/inteligencia-artificial",
+      "modulos_claude": [
+        "programacao",
+        "matematica"
+      ],
+      "emoji": "🤖",
+      "status": "futura",
+      "periodo": "2027/1"
+    },
+    {
+      "codigo": "ENC-42",
+      "nome": "Redes de Computadores",
+      "semestre": 6,
+      "nucleo": "Específico",
+      "pre_requisitos": [
+        "ENC-28"
+      ],
+      "eletiva_qualquer": false,
+      "ch": {
+        "total": 68,
+        "teorica": 34,
+        "pratica": 34,
+        "extensao": 0
+      },
+      "ementa": "Arquitetura de redes (OSI, TCP/IP, etc); conceitos básicos de redes; tipos de rede: locais, de longa distância e metropolitanas; protocolos de aplicação da família TCP/IP: funcionalidades básicas e operação dos protocolos de segurança das redes, sistema de nomes, correio eletrônico, transferência de arquivos, emulação de terminais, serviços de diretório de redes, suporte à aplicações world wide web.",
+      "conteudo": [],
+      "bib_basica": [
+        "COMER, D. E. Redes de Computadores e a Internet. 4a ed. Porto Alegre: Bookman, 2007.",
+        "KUROSE, J. F.; ROSS, K. W.; MARQUES, A. S. Redes de computadores e a internet: uma abordagem top-down. 6ª ed. São Paulo: Pearson Addison Wesley, 2013.",
+        "TANENBAUM, A. S. Redes de Computadores. 4a ed. Rio de Janeiro: Campus, 2003."
+      ],
+      "bib_complementar": [
+        "BARRET, D. Redes de computadores. 1a ed. LTC, 2010.",
+        "FOROUZAN, B. A. Comunicação de Dados e Redes de Computadores. 3a ed. Porto Alegre: Bookman, 2006.",
+        "MORAES, Alexandre F.; CIRONE, Antonio Carlos. Redes de Computadores da Ethernet à Internet. 8. ed. São Paulo: Érica, 2003.",
+        "STALLINGS, W. Redes e Sistemas de Comunicação de Dados. 1a ed. Rio de Janeiro: Campus, 2005.",
+        "WHITE, Curt M.; TASKS, All. Redes de Computadores e Comunicação de Dados. São Paulo SP: Cengage Learning, 2012."
+      ],
+      "observacoes": [
+        "Na página da ementa, o código aparece como ENC-48 (na matriz é ENC-42).",
+        "Na página da ementa, o semestre aparece como 7º (na matriz é 6º)."
+      ],
+      "libera": [
+        "ENC-49"
+      ],
+      "pasta": "06-semestre/rede-computadores",
+      "modulos_claude": [
+        "programacao"
+      ],
+      "emoji": "🌐",
+      "status": "futura",
+      "periodo": "2027/1"
+    },
+    {
+      "codigo": "ENC-43",
+      "nome": "Microcontroladores",
+      "semestre": 7,
+      "nucleo": "Profissionalizante",
+      "pre_requisitos": [
+        "ENC-37"
+      ],
+      "eletiva_qualquer": false,
+      "ch": {
+        "total": 68,
+        "teorica": 30,
+        "pratica": 24,
+        "extensao": 14
+      },
+      "ementa": "Arquiteturas de microprocessadores. Programação de microprocessadores: tipos e formatos de instruções, modos de endereçamento. Memória. Entrada/Saída. Dispositivos periféricos, interrupção, acesso direto à memória. Barramentos padrões. Ferramentas para análise, desenvolvimento e depuração. Projetos com microcontroladores.",
+      "conteudo": [],
+      "bib_basica": [
+        "MARTINS, N. A. Sistemas Microcontrolados. 1a ed. São Paulo: Novatec, 2005.",
+        "PEREIRA, F. Microcontroladores PIC - Programação em C. 2a ed. São Paulo: Érica, 2003.",
+        "NICOLOSI, D. E. C. Laboratório de Microcontroladores Família 8051. 1a ed. São Paulo: Érica, 2001."
+      ],
+      "bib_complementar": [
+        "PEREIRA, F. Tecnologia ARM - Microcontroladores de 32 bits. Editora Érica",
+        "PEREIRA, F. Microcontroladores PIC - Editora Érica.",
+        "SOUSA, D. R.; SOUZA, D. J. de. Desbravando o PIC 24 - Editora Erica",
+        "TOCCI, R. J., Sistemas Digitais, Princípios e Aplicações, Rio de Janeiro: LTC Editora S.A."
+      ],
+      "observacoes": [
+        "A divisão da carga horária na ementa (34 teórica, 20 prática, 14 extensão) difere da matriz (30, 24, 14); aqui vale a matriz."
+      ],
+      "libera": [],
+      "pasta": "07-semestre/microcontroladores",
+      "modulos_claude": [
+        "circuitos",
+        "programacao",
+        "projeto"
+      ],
+      "emoji": "🔧",
+      "status": "futura",
+      "periodo": "2027/2"
+    },
+    {
+      "codigo": "ENC-44",
+      "nome": "Eletrônica Analógica II",
+      "semestre": 7,
+      "nucleo": "Profissionalizante",
+      "pre_requisitos": [
+        "ENC-29"
+      ],
+      "eletiva_qualquer": false,
+      "ch": {
+        "total": 68,
+        "teorica": 68,
+        "pratica": 0,
+        "extensao": 0
+      },
+      "ementa": "Amplificadores operacionais. Circuitos lineares e não lineares com amplificadores operacionais. Comparadores. Schmitt triggers. Geradores de forma de onda. O circuito integrado 555. Filtros ativos",
+      "conteudo": [],
+      "bib_basica": [
+        "SEDRA, A. S.; SMITH, K. C. Microeletrônica. 5ª ed., São Paulo: Pearson, 2007.",
+        "BOYLESTAD, R. L.; NASHELSKY, L. Dispositivos Eletrônicos e Teoria de Circuitos. 11ª ed., São Paulo: Pearson, 2013.",
+        "JUNIOR, A. P. Amplificadores Operacionais e Filtros Ativos: teoria, projetos, aplicações e laboratório, São Paulo: Editora Bookman, 2015"
+      ],
+      "bib_complementar": [
+        "GRUITER, A. F. Amplificadores Operacionais: Fundamentos e Aplicações, São Paulo: Editora McGraw-Hill, 1988.",
+        "SEABRA, A. C. Amplificadores Operacionais: Teoria e Análise, São Paulo: Editora Érica.",
+        "SCHULER, C. Eletrônica I e II - Série Tekne, 7ª Ed. 2013, Editora Amgh.",
+        "BOGART, J. Dispositivos e Circuitos Eletrônicos. São Paulo: Makron, 2000.",
+        "MALVINO, A. P. Eletrônica. vol. I e II, São Paulo: Editora McGraw Hill."
+      ],
+      "observacoes": [
+        "O pré-requisito na matriz é ENC-29 (Compiladores), o que parece erro de digitação: o esperado seria ENC-36 (Eletrônica Analógica I). Confirmar com a coordenação."
+      ],
+      "libera": [],
+      "pasta": "07-semestre/eletronica-analogica-ii",
+      "modulos_claude": [
+        "circuitos"
+      ],
+      "emoji": "🔌",
+      "status": "futura",
+      "periodo": "2027/2"
+    },
+    {
+      "codigo": "ENC-45",
+      "nome": "Controle de Sistemas Contínuos I",
+      "semestre": 7,
+      "nucleo": "Profissionalizante",
+      "pre_requisitos": [
+        "ENC-39"
+      ],
+      "eletiva_qualquer": false,
+      "ch": {
+        "total": 68,
+        "teorica": 51,
+        "pratica": 17,
+        "extensao": 0
+      },
+      "ementa": "Transformada de Laplace. Introdução aos sistemas de controle. Modelagem matemática de sistemas físicos por meio de equações diferenciais ordinárias lineares. Diagrama de Blocos. Diagrama de Fluxo de Sinais. Representação de sistemas de controle no espaço de estado. Análise de sistemas de primeira ordem, de segunda ordem e de ordem superior. Parâmetros de desempenho. Estabilidade pelo critério de Routh-Hurwitz. Análise do lugar das raízes. Projeto de controladores utilizando o método do lugar das raízes. Controladores PID. Técnicas de Sintonia de PID",
+      "conteudo": [],
+      "bib_basica": [
+        "OGATA, K. Engenharia de Controle Moderno. 4ª ed. São Paulo: Prentice Hall, 2003.",
+        "DORF, R. C.; BISHOP, R. H. Sistemas de Controle Modernos. 8a ed. Rio de Janeiro: LTC, 2001.",
+        "NISE, N. S. Engenharia de Sistemas de Controle. 5ª ed. Rio de Janeiro: LTC, 2009."
+      ],
+      "bib_complementar": [
+        "DISTEFANO, J. J.; et al. Sistemas de Retroação e Controle. 1a ed. São Paulo: Makron, 1972. D’AZZO, M.; HOUPIS, H. Análise de projetos de sistemas de controle. 1a ed. São Paulo: Guanabara, 1984. CASTRUCCI P.; MORAES C. C. Engenharia de Automação Industrial. 1a ed. Rio de Janeiro: LTC, 2001. NISE, N. S. Engenharia de Sistemas de Controle. 5ª ed. Rio de Janeiro: LTC, 2009. OGATA, K.; KOHN, A. F.; MORAES, J. C. T. de B. Engenharia de controle moderno. 4 ed. São Paulo SP: Prentice - Hall, 2003."
+      ],
+      "observacoes": [],
+      "libera": [],
+      "pasta": "07-semestre/controle-sistemas-continuos-i",
+      "modulos_claude": [
+        "matematica",
+        "circuitos"
+      ],
+      "emoji": "➗",
+      "status": "futura",
+      "periodo": "2027/2"
+    },
+    {
+      "codigo": "ENC-46",
+      "nome": "Segurança do Trabalho",
+      "semestre": 7,
+      "nucleo": "Profissionalizante",
+      "pre_requisitos": [],
+      "eletiva_qualquer": false,
+      "ch": {
+        "total": 34,
+        "teorica": 17,
+        "pratica": 0,
+        "extensao": 17
+      },
+      "ementa": "Introdução à ergonomia e à segurança do trabalho. Organização ergonômica no trabalho. Avaliação dos fatores humanos e das condições de trabalho. Noções de fisiologia do trabalho. Aplicação de forças. Dimensionamento de postos de trabalho. Ergonometria. Limitações sensoriais. Dispositivos de controle. Dispositivos de informação. Trabalho em turno. Saúde Ocupacional. Resíduos Industriais. Acidentes de Trabalho. Estudo da Legislação pertinente.",
+      "conteudo": [],
+      "bib_basica": [
+        "SALIBA, T. F.; PAGANO, S. C. R. S. Legislação de Segurança, Acidente do Trabalho. 1ª ed., São Paulo: LTR, 2009.",
+        "PAOLESCHI, B. CIPA - Guia Prático de Segurança do Trabalho. 1a ed., São Paulo: Érica, 2010.",
+        "CARDELLA, B. Segurança no Trabalho e Prevenção de Acidentes. 1a ed., São Paulo"
+      ],
+      "bib_complementar": [
+        "BENSOUSSAN, E., ALBIERI, S. Manual de Higiene Segurança e Medicina do Trabalho. ATHENEU EDITORA, 1997.",
+        "ZOCCHIO, Álvaro. Política de Segurança e Saúde no Trabalho. Editora LTR, 2000.",
+        "ZOCCHIO, Álvaro. Segurança e Saúde no Trabalho. Editora LTR, 2001.",
+        "GONÇALVES, E. A. Manual de segurança e saúde no trabalho. 2ª ed., São Paulo SP: LTR, 2003.",
+        "LATANCE JÚNIOR, Sérgio. CIPA, Comissão Interna de Prevenção de Acidentes: organização e administração: NR-05 - comentada e atualizada. São Paulo SP: LTR, 2001"
+      ],
+      "observacoes": [
+        "Na página da ementa, o código aparece como ENC-28 (na matriz é ENC-46).",
+        "A ementa traz 34 h teóricas; a matriz divide em 17 h teóricas e 17 h de extensão (aqui vale a matriz)."
+      ],
+      "libera": [],
+      "pasta": "07-semestre/seguranca-trabalho",
+      "modulos_claude": [
+        "teorica"
+      ],
+      "emoji": "🦺",
+      "status": "futura",
+      "periodo": "2027/2"
+    },
+    {
+      "codigo": "ENC-47",
+      "nome": "Mineração de Dados",
+      "semestre": 7,
+      "nucleo": "Específico",
+      "pre_requisitos": [
+        "ENC-41"
+      ],
+      "eletiva_qualquer": false,
+      "ch": {
+        "total": 68,
+        "teorica": 34,
+        "pratica": 34,
+        "extensao": 0
+      },
+      "ementa": "Introdução e aplicações de mineração de dados; processo de descoberta de conhecimento em bases de dados; pré-processamento de dados; técnicas de mineração de dados para as tarefas de extração de regras de associação e padrões de sequência, agrupamento (clustering), classificação e regressão; uso de ferramentas de mineração de dados. Linguagem de Programação: Python",
+      "conteudo": [
+        {
+          "t": "Introdução e aplicações de mineração de dados",
+          "sub": [
+            "Técnicas e tarefas de mineração de dados",
+            "Exemplos de aplicações"
+          ]
+        },
+        {
+          "t": "Processo de descoberta de conhecimento em bases de dados",
+          "sub": [
+            "Descrição das etapas do processo de descoberta de conhecimento em bases de dados"
+          ]
+        },
+        {
+          "t": "Pré-processamento de dados",
+          "sub": [
+            "Limpeza de dados",
+            "Integração de dados",
+            "Transformação de dados",
+            "Redução de dados",
+            "Discretização de dados"
+          ]
+        },
+        {
+          "t": "Extração de regras de associação e padrões de sequência",
+          "sub": [
+            "Conceitos iniciais de regras de associação e padrões de sequência",
+            "Tipos de regras de associação",
+            "Modelo suporte/confiança",
+            "Algoritmos Apriori e Partition",
+            "Outras medidas de interesse",
+            "Algoritmo AprioriAll"
+          ]
+        },
+        {
+          "t": "Classificação e regressão",
+          "sub": [
+            "Processo de classificação",
+            "Classificação por indução de árvores de decisão",
+            "Classificadores bayesianos",
+            "Classificador k-NN",
+            "Avaliação de classificadores",
+            "Regressão linear simples e múltipla"
+          ]
+        },
+        {
+          "t": "Agrupamento (clustering)",
+          "sub": [
+            "Conceitos iniciais",
+            "Funções de distância",
+            "Preparação dos dados",
+            "Categorias de métodos de agrupamento",
+            "Algoritmo k-means"
+          ]
+        },
+        {
+          "t": "Uso de ferramentas de mineração de dados",
+          "sub": []
+        }
+      ],
+      "bib_basica": [
+        "TAN, Pang-Ning; STEINBACH, Michael; KUMAR, Vipin. Introdução ao Data Mining. Rio de Janeiro: Ciência Moderna, 2009.",
+        "HAN, Jiawei; KAMBER, Micheline; PEI, Jian. Data mining: concepts and techniques 3.ed. Boston: Elsevier, 2012.",
+        "WITTEN, I. H; FRANK, Eibe; HALL, Mark A. Data mining: practical machine learning tools and techniques. 3. ed. Amsterdam: Morgan Kaufmann, 2011."
+      ],
+      "bib_complementar": [
+        "LAWRENCE, Kenneth D; KUDYBA, Stephan; KLIMBERG, Ronald K. Data mining methods and applications. Boca Raton, FL: Auerbach Publications, 2008.",
+        "HASTIE, Trevor; TIBSHIRANI, Robert; FRIEDMAN, J. H. The elements of statistical learning: data mining, inference, and prediction . 2. ed. New York, NY: Springer, 2009.",
+        "GOLDSCHMIDT, Ronaldo; PASSOS, Emmanuel Lopes. Data Mining: Um Guia Prático: conceitos, técnicas, ferramentas, orientações e aplicações. Rio de Janeiro: Elsevier, Campus, 2005.",
+        "CHAKRABARTI, Soumen. Mining the Web: discovering knowledge from hypertext data. San Francisco, CA: Morgan Kaufmann Publishers, 2003.",
+        "LIU, Bing. Web data mining: exploring hyperlinks, contents, and usage data. Berlin, New York: Springer, 2007."
+      ],
+      "observacoes": [],
+      "libera": [
+        "ENC-51"
+      ],
+      "pasta": "07-semestre/mineracao-dados",
+      "modulos_claude": [
+        "programacao",
+        "matematica"
+      ],
+      "emoji": "⛏️",
+      "status": "futura",
+      "periodo": "2027/2"
+    },
+    {
+      "codigo": "ENC-48",
+      "nome": "Extensão II",
+      "semestre": 7,
+      "nucleo": "—",
+      "pre_requisitos": [
+        "ENC-33"
+      ],
+      "eletiva_qualquer": false,
+      "ch": {
+        "total": 102,
+        "teorica": 0,
+        "pratica": 0,
+        "extensao": 102
+      },
+      "ementa": "Conceber projetos de extensão, através da identificação de oportunidades na comunidade. Planejar as atividades de extensão com estruturação de projetos. Gerir os projetos de extensão com organização de equipe, monitoramento e controle de atividades. Comunicar e relizar mobilização comunitária para engajamento dos projetos. Apresentar e divulgar os resultados do projeto.",
+      "conteudo": [],
+      "bib_basica": [
+        "A bibliografia será estabelecida conforme o projeto de Extensão aprovado."
+      ],
+      "bib_complementar": [],
+      "observacoes": [],
+      "libera": [
+        "ENC-54"
+      ],
+      "pasta": "07-semestre/extensao-ii",
+      "modulos_claude": [
+        "extensao",
+        "projeto"
+      ],
+      "emoji": "🤝",
+      "status": "futura",
+      "periodo": "2027/2"
+    },
+    {
+      "codigo": "ENC-49",
+      "nome": "Segurança de Sistemas de Computação",
+      "semestre": 7,
+      "nucleo": "Específico",
+      "pre_requisitos": [
+        "ENC-42"
+      ],
+      "eletiva_qualquer": false,
+      "ch": {
+        "total": 34,
+        "teorica": 34,
+        "pratica": 0,
+        "extensao": 0
+      },
+      "ementa": "Informações, operações e componentes dos sistemas em redes; Propriedades da segurança; Princípios de segurança da informação; Controles e proteções; Aplicação de mecanismos de segurança; Administração da segurança da informação.",
+      "conteudo": [],
+      "bib_basica": [
+        "MORAES, Alexandre Fernandes de. Segurança de Redes: Fundamentos. 1ª Ed. São Paulo. Érica. 2014",
+        "RUFINO, Nelson Murilo de Oliveira. Segurança em Redes sem Fio: Aprenda a proteger suas informações em ambientes WI-Fi e Bluetooth. 3ª Ed. São Paulo: Novatec. 2011.",
+        "STALLINGS, William. Criptografia e Segurança de Redes: princípios e práticas. 4ª Ed. São Paulo: Pearson Education, 2008."
+      ],
+      "bib_complementar": [
+        "CARUSO, Carlos A. A. Steffen, Flávio Deny. Segurança em Informática e de Informações. 2ª Ed. São Paulo: Senac. 1999.",
+        "KUROSE, James F. Ross, Keith W. Redes de Computadores e a Internet: Uma abordagem top- down. 5ª Ed. Pearson Education. 2010",
+        "PETERSON, Larry L. Davie, Bruce S. Redes de Computadores: uma abordagem de sistemas. Rio de Janeiro: Campus, 2013.",
+        "TANENBAUM, Andrew S. WETHWRALL, David. Redes de Computadores. 5ª Ed. Pearson Education – BR. 2011."
+      ],
+      "observacoes": [],
+      "libera": [],
+      "pasta": "07-semestre/seguranca-sistemas-computacao",
+      "modulos_claude": [
+        "programacao"
+      ],
+      "emoji": "🔒",
+      "status": "futura",
+      "periodo": "2027/2"
+    },
+    {
+      "codigo": "ENC-50",
+      "nome": "Processamento Digital de Sinais",
+      "semestre": 8,
+      "nucleo": "Específico",
+      "pre_requisitos": [
+        "ENC-39"
+      ],
+      "eletiva_qualquer": false,
+      "ch": {
+        "total": 34,
+        "teorica": 27,
+        "pratica": 0,
+        "extensao": 7
+      },
+      "ementa": "Amostragem de sinais. Transformada Z. Função de transferência. Realização de sistemas discretos. Análise da estabilidade no domínio Z. Transformada discreta de Fourier, algoritmo da FFT. Filtros digitais IIR e FIR. Projeto de filtros digitais. Processadores DSP comerciais. Projetos de filtros e simulação computacional utilizando software apropriado",
+      "conteudo": [],
+      "bib_basica": [
+        "HAYES, M. H. Processamento Digital de Sinais. 1ª ed. Porto Alegre: Bookman, 2006.",
+        "OPPENHEIM, A.V., SCHAFER, R.W., Processamento em Tempo Discreto de Sinais, 3 ª Ed, São Paulo, Editora Pearson.",
+        "DINIZ, P. S. R., SILVA, E. A. B. & NETO S.L. Processamento Digital de Sinais. Porto Alegre: Editora Bookman."
+      ],
+      "bib_complementar": [
+        "COSTA, C. et al. Elementos de Lógica Programável com VHDL e DSP - Teoria e Prática. 1ª ed. São Paulo: Érica, 2010.",
+        "PROAKIS, J. G. Digital Signal Processing. São Paulo: Editora Prentice-Hall.",
+        "NALON, J. A. Introdução ao Processamento Digital de Sinais, 2ª ed. Editora: LTC, 2009.",
+        "WEEKS, M.. Digital Signal Processing Using Matlab and Wavelets. Infinity Science Press, 2007.",
+        "ORTIGUEIRA, M. D. Processamento Digital de Sinais, 1ª ed. Porto, Editora Caloustre Gulbenkian, 2005."
+      ],
+      "observacoes": [
+        "Na página da ementa, a carga horária aparece como 68 h (na matriz é 34 h)."
+      ],
+      "libera": [],
+      "pasta": "08-semestre/processamento-digital-sinais",
+      "modulos_claude": [
+        "matematica",
+        "programacao"
+      ],
+      "emoji": "➗",
+      "status": "futura",
+      "periodo": "2028/1"
+    },
+    {
+      "codigo": "ENC-51",
+      "nome": "Projeto de Sistemas Inteligentes",
+      "semestre": 8,
+      "nucleo": "Específico",
+      "pre_requisitos": [
+        "ENC-47"
+      ],
+      "eletiva_qualquer": false,
+      "ch": {
+        "total": 68,
+        "teorica": 34,
+        "pratica": 34,
+        "extensao": 0
+      },
+      "ementa": "O projeto deve ser desenvolvido de acordo com o estabelecido pelo docente da disciplina, e deve seguir as seguintes diretrizes: 1) Atender o limite de tempo estabelecido no início do semestre, 2) Envolver um estudante por projeto, de forma individual, ou se houver justificativa e o docente assim o permitir, mais de um estudante poderá estar vinculado a cada projeto, 3) Apresentar os resultados do projeto na forma de artigo ABNT, com a devida revisão bibliográfica, 4) Utilizar linguagem clara e objetiva, bem como gráficos e figuras de alta qualidade, 5) Empregar, no desenvolvido do projeto, a linguagem de programação Python, ou outra que vier a substituí-la, e estar bem documentado. Linguagem de Programação: Python",
+      "conteudo": [],
+      "bib_basica": [
+        "Será definida semestralmente de acordo com o projeto aprovador pelo NDE e Colegiado."
+      ],
+      "bib_complementar": [],
+      "observacoes": [
+        "A ementa traz 68 h de extensão; a matriz divide em 34 h teóricas e 34 h práticas (aqui vale a matriz)."
+      ],
+      "libera": [],
+      "pasta": "08-semestre/projeto-sistemas-inteligentes",
+      "modulos_claude": [
+        "projeto",
+        "programacao"
+      ],
+      "emoji": "🧠",
+      "status": "futura",
+      "periodo": "2028/1"
+    },
+    {
+      "codigo": "ENC-52",
+      "nome": "Disciplina Eletiva",
+      "semestre": 8,
+      "nucleo": "—",
+      "pre_requisitos": [],
+      "eletiva_qualquer": true,
+      "ch": {
+        "total": 34,
+        "teorica": 34,
+        "pratica": 0,
+        "extensao": 0
+      },
+      "ementa": "",
+      "conteudo": [],
+      "bib_basica": [],
+      "bib_complementar": [],
+      "observacoes": [],
+      "libera": [],
+      "pasta": "08-semestre/eletiva",
+      "modulos_claude": [
+        "teorica"
+      ],
+      "emoji": "🎯",
+      "status": "futura",
+      "periodo": "2028/1"
+    },
+    {
+      "codigo": "ENC-53",
+      "nome": "Administração",
+      "semestre": 8,
+      "nucleo": "Básico",
+      "pre_requisitos": [],
+      "eletiva_qualquer": false,
+      "ch": {
+        "total": 34,
+        "teorica": 27,
+        "pratica": 0,
+        "extensao": 7
+      },
+      "ementa": "Introdução à gestão de pessoas. Bases teóricas da Administração. Motivação e necessidades humanas. Noções de liderança. Liderança situacional. Liderança e inteligência emocional. Comunicação. Delegação. Formação e trabalho de equipes. Introdução à Administração Financeira. Ambiente econômico e de negócios. Demonstrativos financeiros. Análise dos demonstrativos financeiros. Análise do custo x volume x lucro. Orçamento empresarial e gestão do fluxo de caixa.",
+      "conteudo": [],
+      "bib_basica": [
+        "AMBONI, N.; de ANDRADE, R. O. B. Teoria Geral da Administração. 1ª ed., Rio de Janeiro: Campus, 2009.",
+        "MAXIMIANO, A. C. A. Introdução à Administração. 7a ed., São Paulo: Atlas, 2004.",
+        "CHIAVENATO, I. Introdução à Teoria Geral da Administração. 7a ed. Rio de Janeiro: Campus, 2004."
+      ],
+      "bib_complementar": [
+        "JUSCIUS, M. J. e SCHLENDER, W. E. Introdução à Administração, São Paulo: Editora Atlas.",
+        "NOGUEIRA de Farias. Estrutura das organizações, São Paulo: Editora Atlas.",
+        "KWASNICKA, E. L. Introdução a Administração. São Paulo: Editora Atlas.",
+        "CHORAFAS, Dimitris N. Administração, Marketing, Negócios Para Engenharia e TI. 1 ª ed. Editora Makron Books, 2012.",
+        "ROCHA, Sérgio. Estatística Geral e Aplicada. Para Cursos de Engenharia. 1ª ed. Editora: Atlas, 2014."
+      ],
+      "observacoes": [
+        "A ementa traz 34 h teóricas; a matriz divide em 27 h teóricas e 7 h de extensão (aqui vale a matriz)."
+      ],
+      "libera": [],
+      "pasta": "08-semestre/administracao",
+      "modulos_claude": [
+        "teorica"
+      ],
+      "emoji": "🏢",
+      "status": "futura",
+      "periodo": "2028/1"
+    },
+    {
+      "codigo": "ENC-54",
+      "nome": "Trabalho de Conclusão do Curso",
+      "semestre": 8,
+      "nucleo": "—",
+      "pre_requisitos": [
+        "ENC-48"
+      ],
+      "eletiva_qualquer": false,
+      "ch": {
+        "total": 34,
+        "teorica": 34,
+        "pratica": 0,
+        "extensao": 0
+      },
+      "ementa": "Desenvolvimento de um trabalho individual na área de Engenharia de Computação, sob orientação de um professor do curso.",
+      "conteudo": [],
+      "bib_basica": [],
+      "bib_complementar": [],
+      "observacoes": [],
+      "libera": [],
+      "pasta": "08-semestre/tcc",
+      "modulos_claude": [
+        "projeto",
+        "teorica"
+      ],
+      "emoji": "🎓",
+      "status": "futura",
+      "periodo": "2028/1"
+    }
+  ],
+  "eletivas": [
+    {
+      "codigo": "ENC-E1",
+      "nome": "Libras",
+      "ch": {
+        "total": 34
+      },
+      "ementa": "Políticas de inclusão e exclusão sociais e educacionais; Modelos educacionais na educação de surdos. Aspectos históricos e culturais, linguísticos, educacionais e sociais da surdez. Vocabulário em língua de sinais. O papel do intérprete de língua de sinais na sala de aula. A definição do que representa o intérprete-pedagógico na educação de surdos.",
+      "conteudo": [],
+      "bib_basica": [
+        "KARNOPP e QUADROS. Língua de Sinais Brasileira, Porto Alegre: Artmed.",
+        "FELIPE, T.; MONTEIRO, M. LIBRAS em Contexto: Curso Básico: Livro do Professor. 4ª. ed. Rio de Janeiro: LIBRAS Editora Gráfica, 2005.",
+        "QUADROS, Ronice Muller. Educação de Surdos: a aquisição da linguagem. Porto Alegre: Artmed, 1997."
+      ],
+      "bib_complementar": [
+        "PIMENTA, Nelson. Coleção Aprendendo LSB volume I Básico. Rio de Janeiro, 2000.",
+        "PIMENTA, Nelson. Coleção Aprendendo LSB volume II Intermediário. Rio de Janeiro, 2000.",
+        "PIMENTA, Nelson. Coleção “Aprendendo LSB” volume III Avançado. Rio de Janeiro, 2001.",
+        "BRANDAO, F. Dicionário Ilustrado de Libras, Rio de Janeiro: Global Editora, 2011.",
+        "GESSER, A. Libras - Que Língua é Essa, São Paulo: Parábola, 2009."
+      ],
+      "pre_requisitos": [],
+      "observacoes": []
+    },
+    {
+      "codigo": "ENC-E2",
+      "nome": "Processamento Digital de Imagens",
+      "ch": {
+        "total": 68
+      },
+      "ementa": "Aspectos históricos, aplicações, representação e modelagem matemática de imagens digitais, aquisição de imagens, realce/melhoria de imagens no domínio espacial da frequência, restauração de imagens, processamento de imagens coloridas, morfologia matemática, segmentação. Visão Computacional. OpenCV.",
+      "conteudo": [],
+      "bib_basica": [
+        "GONZALEZ, R. C.; WOODS, R. E. Processamento de Imagens Digitais. 3. ed. São Paulo: Pearson, 2011.",
+        "GONZALEZ, R. C.; WOODS, R. E.; CESAR JUNIOR, R. M.; COSTA, L. da F. Processamento de Imagens Digitais. São Paulo SP: Blucher, 2013.",
+        "SALOMON, C.; BRECKON, T. Fundamentos de processamento digital de imagens: uma abordagem prática com exemplos em matlab. Rio de Janeiro RJ: LTC, 2016."
+      ],
+      "bib_complementar": [
+        "GONZALES, R. C.; WOODS, R. E. Processamento Digital de Imagens. 3a ed. São Paulo: Longman do Brasil, 2010.",
+        "SHIMIZU, T. Processamento de dados: conceitos básicos. 2º ed. São Paulo SP: Atlas, 1983.",
+        "ALCAIM, A.; OLIVEIRA, C. A. S. Fundamentos do Processamento de Sinais de Voz e Imagem. Rio de Janeiro-RJ: Interciência, 2011.",
+        "PEDRINI, H., SCHWARTZ, W.R., Análise de Imagens Digitais: Princípios, Algoritmos e Aplicações, Editora Thomson Learning, 2007. − SOLOMON, C.; BRECKON, T. Fundamental of Digital Image Processing: A Practical Approach with Examples in Matlab. 1a ed. Wiley, 2011."
+      ],
+      "pre_requisitos": [
+        "ENC-22"
+      ],
+      "observacoes": [
+        "A página da ementa diz \"Pré-requisitos: Nenhum\"; a tabela de eletivas indica ENC-22 (aqui vale a tabela)."
+      ]
+    },
+    {
+      "codigo": "ENC-E3",
+      "nome": "Cálculo Diferencial e Integral III",
+      "ch": {
+        "total": 68
+      },
+      "ementa": "Integrais curvilíneas e de superfícies. Teorema de Green e campos conservativos. Teorema de Gauss. Teorema de Stokes e independência de caminho. Equações diferenciais de 1ª ordem. Equações de Variáveis separáveis. Diferencial exata - Fatores integrantes. Método de Picard. Teorema da existência e unicidade. Equações diferenciais de 2ª ordem. Existência e unicidade da solução. Equações lineares de 2a ordem. Equação linear a coeficientes constantes",
+      "conteudo": [],
+      "bib_basica": [
+        "STEWART, J. Cálculo. 6ª ed. São Paulo: Cengage Learning, 2009. v. 2.",
+        "ZILL, D. G. Equações Diferenciais com Aplicações em Modelagem. 1ª ed. São Paulo: Pioneira Thomson Learning, 2003.",
+        "BOYCE, W. E.; DIPRIMA, R. C. Equações Diferenciais Elementares e Problemas de Valores de Contorno. 8ª ed. Rio de Janeiro: LTC, 2006."
+      ],
+      "bib_complementar": [
+        "GUIDORIZZI, H. L. Um Curso de Cálculo. 5ª ed. Rio de Janeiro: LTC, 2001. v.2.",
+        "FLEMMING, D. M. GONÇALVES, M. Cálculo B. São Paulo: Editora Mac-Graw-Hill.",
+        "SWOKOWSKI, E. W. Cálculo com Geometria Analítica. v. 1. São Paulo: MacGraw-Hill, 1995.",
+        "GONÇALVES, M.B. e FLEMMING, D. M. Cálculo C. Funções Vetoriais, Integrais Curvilíneas e Integrais.",
+        "SPIEGEL, M. R. Transformada de Laplace. Coleção Schaum, Editora: McGraw-Hill, 1965"
+      ],
+      "pre_requisitos": [
+        "ENC-15"
+      ],
+      "observacoes": []
+    },
+    {
+      "codigo": "ENC-E4",
+      "nome": "Cálculo Diferencial e Integral IV",
+      "ch": {
+        "total": 68
+      },
+      "ementa": "Introdução às equações diferenciais ordinárias. Classificação. Métodos de resolução. Problemas de valor inicial. Problemas de Valor de Contorno. Equações diferenciais ordinárias lineares. Transformada de Laplace.",
+      "conteudo": [],
+      "bib_basica": [
+        "ZILL, D. G. Equações Diferenciais com Aplicações em Modelagem. 1ª ed. São Paulo: Pioneira Thomson Learning, 2003.",
+        "BRONSON, R.; COSTA, G. Equações Diferenciais. 3a ed. Porto Alegre: Bookman, 2008.",
+        "BOYCE, W. E.; DIPRIMA, R. C. Equações Diferenciais Elementares e Problemas de Valores de Contorno. 8ª ed. Rio de Janeiro: LTC, 2006"
+      ],
+      "bib_complementar": [
+        "ABBUNAHMAN, S. H. Equações Diferenciais, Rio de Janeiro: LTC Editora S.A, 1991.",
+        "AYRES JUNIOR, F. Equações Diferenciais, São Paulo: Editora McGraw-Hill.",
+        "GONÇALVES, M.B. e FLEMMING, D. M. Cálculo C. Funções Vetoriais, Integrais Curvilíneas e Integrais.",
+        "SPIEGEL, M. R. Transformada de Laplace. Coleção Schaum, Editora: McGraw-Hill, 1965.",
+        "ZILL, Dennis G. Equações Diferenciais. Com Aplicações em Modelagem. 2ª ed. Editora: Cengage, 2011."
+      ],
+      "pre_requisitos": [
+        "ENC-22"
+      ],
+      "observacoes": []
+    },
+    {
+      "codigo": "ENC-E5",
+      "nome": "Homem, Cultura e Sociedade",
+      "ch": {
+        "total": 34
+      },
+      "ementa": "Origem e desenvolvimento da sociedade capitalista e a explicação científica da vida social. O conceito de sociedade, a desigualdade social e as formas de dominação nos paradigmas sociológicos clássicos. Os aspectos econômicos, políticos, sociais e culturais na formação da sociedade global. Técnica e tecnologia na sociedade contemporânea. História e Cultura Afro-Brasileira e Indígena. Relações raciais, de gênero, juventude, educação e trabalho.",
+      "conteudo": [],
+      "bib_basica": [
+        "HUBERMAN, L. A história da riqueza do homem. Rio de Janeiro: Guanabara, 1986.",
+        "MARTINS, Carlos Benedito. O que é Sociologia? 38ª ed. São Paulo Brasiliense. 1994",
+        "QUITANEIRO, T.; BARBOSA, M. L. de O.; OLIVEIRA, M. G. de. Um toque de clássicos: Durkheim, Marx e Weber. Belo Horizonte: Editora da UFMG. 1995"
+      ],
+      "bib_complementar": [
+        "ARON, R. As Etapas do Pensamento Sociológico, 5ª ed., São Paulo, Martins fontes, 1999,",
+        "COSTA, C. Sociologia: Introdução à Ciência da Sociedade, 3ª ed., São Paulo: Moderna, 2005.",
+        "IANNI, O. A sociedade global. Rio de Janeiro: Civilização Brasileira, 1999.",
+        "SORJ, B. A nova sociedade brasileira. Rio de Janeiro: Zahar, 2000.",
+        "GIDDENS, A. Sociologia. 4ª ed. Porto Alegre: Artmed, 2005"
+      ],
+      "pre_requisitos": [],
+      "observacoes": []
+    }
+  ]
+}
