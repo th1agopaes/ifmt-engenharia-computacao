@@ -122,9 +122,11 @@ Documentos/IFMT/
 ├── estagio/
 └── 05-semestre/
     └── compiladores/
-        ├── materiais/          slides, listas e apostilas do professor
-        ├── avaliacoes/         provas e trabalhos (enunciado e minha resolução)
-        └── entregas/           o que eu enviei no AVA
+        ├── plano-ensino_2026-2.pdf   plano de ensino do SUAP, na raiz da disciplina
+        ├── aulas/              slides e apostilas (aula-NN_tema.pdf)
+        ├── listas/             listas e resoluções (lista-NN_tema.pdf)
+        ├── provas/             provas (prova-N_AAAA-P.pdf)
+        └── trabalhos/          enunciados e o que eu entreguei (trabalho-N_tema.pdf)
 ```
 
 > [!WARNING]
