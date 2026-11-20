@@ -10,7 +10,7 @@
 | **Semestre** | 5º · 2026/2 |
 | **Carga horária** | 102 h (0 teórica · 102 extensão) |
 | **Núcleo** | — |
-| **Pré-requisitos** | [Introdução à Extensão](../../03-semestre/introducao-extensao/README.md) |
+| **Pré-requisitos** | Introdução à Extensão |
 | **Libera** | [Extensão II](../../07-semestre/extensao-ii/README.md) |
 | **Professor(a)** | _a preencher_ |
 
