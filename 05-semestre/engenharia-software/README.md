@@ -21,7 +21,7 @@
 ## 🗺️ Conteúdo programático
 
 - Software e Engenharia de Software
-  - A natureza do software
+  - 1.1. A natureza do software
   - 1.2. Engenharia de software
   - 1.3. O processo do software
   - 1.4. Práticas de engenharia de software
@@ -107,3 +107,4 @@ _As pastas aparecem quando ganham o primeiro arquivo (o Git não guarda pasta va
 
 - 📁 Materiais do professor: `Documentos/IFMT/05-semestre/engenharia-software/` no PC, sincronizada com o Google Drive (em **Computadores**)
 - 🎓 AVA / Moodle: _colar o link_
+- 🐈‍⬛ GitHub do professor: [jppreti/documents](https://github.com/jppreti/documents)
